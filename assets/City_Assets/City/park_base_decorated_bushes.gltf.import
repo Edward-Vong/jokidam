@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bu3yv755fio0d"
-path="res://.godot/imported/park_base_decorated_bushes.gltf-dc83e67b24a22d526379a33e4e4bfb88.scn"
+path="res://.godot/imported/park_base_decorated_bushes.gltf-355f0886ff017b45ffe6f1171b144a39.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_base_decorated_bushes.gltf"
-dest_files=["res://.godot/imported/park_base_decorated_bushes.gltf-dc83e67b24a22d526379a33e4e4bfb88.scn"]
+source_file="res://assets/City_Assets/City/park_base_decorated_bushes.gltf"
+dest_files=["res://.godot/imported/park_base_decorated_bushes.gltf-355f0886ff017b45ffe6f1171b144a39.scn"]
 
 [params]
 

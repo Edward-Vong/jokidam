@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cnqjprrj4132d"
-path="res://.godot/imported/firehydrant.gltf-90f5f0f288c16489d1efe85a73767573.scn"
+path="res://.godot/imported/firehydrant.gltf-ad80deb8ce299f01aa3ae3d4d033a2a1.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/firehydrant.gltf"
-dest_files=["res://.godot/imported/firehydrant.gltf-90f5f0f288c16489d1efe85a73767573.scn"]
+source_file="res://assets/City_Assets/City/firehydrant.gltf"
+dest_files=["res://.godot/imported/firehydrant.gltf-ad80deb8ce299f01aa3ae3d4d033a2a1.scn"]
 
 [params]
 

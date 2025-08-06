@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bk7pbtcbxw4j8"
-path="res://.godot/imported/terrain_slope.gltf-677e87dcdf02d0979579676bb5cffd1a.scn"
+path="res://.godot/imported/terrain_slope.gltf-1577f175c36bd4e5df13c61f87fa2497.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/terrain_slope.gltf"
-dest_files=["res://.godot/imported/terrain_slope.gltf-677e87dcdf02d0979579676bb5cffd1a.scn"]
+source_file="res://assets/City_Assets/Space/terrain_slope.gltf"
+dest_files=["res://.godot/imported/terrain_slope.gltf-1577f175c36bd4e5df13c61f87fa2497.scn"]
 
 [params]
 

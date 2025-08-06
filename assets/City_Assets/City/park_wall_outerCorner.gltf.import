@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dvuo3gr5rukh1"
-path="res://.godot/imported/park_wall_outerCorner.gltf-a23f9b317ada3e9b62a8bcf6e333cabc.scn"
+path="res://.godot/imported/park_wall_outerCorner.gltf-0e052da99b9257d71d18b5bbb29ee3d2.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_wall_outerCorner.gltf"
-dest_files=["res://.godot/imported/park_wall_outerCorner.gltf-a23f9b317ada3e9b62a8bcf6e333cabc.scn"]
+source_file="res://assets/City_Assets/City/park_wall_outerCorner.gltf"
+dest_files=["res://.godot/imported/park_wall_outerCorner.gltf-0e052da99b9257d71d18b5bbb29ee3d2.scn"]
 
 [params]
 

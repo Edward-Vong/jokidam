@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bvkjvir4unaml"
-path="res://.godot/imported/park_road_junction_decorated_C.gltf-6649e421911e24a1ecffc0868d13c8ca.scn"
+path="res://.godot/imported/park_road_junction_decorated_C.gltf-3754a10b750bbfc15afa662e5e66b524.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_road_junction_decorated_C.gltf"
-dest_files=["res://.godot/imported/park_road_junction_decorated_C.gltf-6649e421911e24a1ecffc0868d13c8ca.scn"]
+source_file="res://assets/City_Assets/City/park_road_junction_decorated_C.gltf"
+dest_files=["res://.godot/imported/park_road_junction_decorated_C.gltf-3754a10b750bbfc15afa662e5e66b524.scn"]
 
 [params]
 

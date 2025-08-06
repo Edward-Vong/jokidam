@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dadfxib2igx5x"
-path="res://.godot/imported/dropship.gltf-f8d52ed04ae3b9e267bc1d42c4be9033.scn"
+path="res://.godot/imported/dropship.gltf-463f1132d7d4ba3cf6c7606c18d47987.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/dropship.gltf"
-dest_files=["res://.godot/imported/dropship.gltf-f8d52ed04ae3b9e267bc1d42c4be9033.scn"]
+source_file="res://assets/City_Assets/Space/dropship.gltf"
+dest_files=["res://.godot/imported/dropship.gltf-463f1132d7d4ba3cf6c7606c18d47987.scn"]
 
 [params]
 

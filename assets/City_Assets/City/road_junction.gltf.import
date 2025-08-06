@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://be0sep8mik2q5"
-path="res://.godot/imported/road_junction.gltf-6955aa002b48ce90be978d502c464839.scn"
+path="res://.godot/imported/road_junction.gltf-8cd6004e1fdb001728df87a9df196f0f.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/road_junction.gltf"
-dest_files=["res://.godot/imported/road_junction.gltf-6955aa002b48ce90be978d502c464839.scn"]
+source_file="res://assets/City_Assets/City/road_junction.gltf"
+dest_files=["res://.godot/imported/road_junction.gltf-8cd6004e1fdb001728df87a9df196f0f.scn"]
 
 [params]
 

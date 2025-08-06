@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dpm8v10xji6uv"
-path="res://.godot/imported/trafficlight_A.gltf-cdbbb7333c8afd8610d30959a6ff0ff7.scn"
+path="res://.godot/imported/trafficlight_A.gltf-8479f7d458f62d20a5140d078b1a7510.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/trafficlight_A.gltf"
-dest_files=["res://.godot/imported/trafficlight_A.gltf-cdbbb7333c8afd8610d30959a6ff0ff7.scn"]
+source_file="res://assets/City_Assets/City/trafficlight_A.gltf"
+dest_files=["res://.godot/imported/trafficlight_A.gltf-8479f7d458f62d20a5140d078b1a7510.scn"]
 
 [params]
 

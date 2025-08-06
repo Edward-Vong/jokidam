@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cb6rc8ees5em8"
-path="res://.godot/imported/terrain_slope_inner_corner.gltf-dcb9f14d1316820df7e6370a6f329d5f.scn"
+path="res://.godot/imported/terrain_slope_inner_corner.gltf-b6e34eb4397fa46191386018b89fcf33.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/terrain_slope_inner_corner.gltf"
-dest_files=["res://.godot/imported/terrain_slope_inner_corner.gltf-dcb9f14d1316820df7e6370a6f329d5f.scn"]
+source_file="res://assets/City_Assets/Space/terrain_slope_inner_corner.gltf"
+dest_files=["res://.godot/imported/terrain_slope_inner_corner.gltf-b6e34eb4397fa46191386018b89fcf33.scn"]
 
 [params]
 

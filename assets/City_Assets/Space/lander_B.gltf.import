@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://co8ih41i72glj"
-path="res://.godot/imported/lander_B.gltf-1d3f43e03b3e991ada58c85f7aedabf6.scn"
+path="res://.godot/imported/lander_B.gltf-b8fe49d5d97e040f586d118494e5cdd4.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/lander_B.gltf"
-dest_files=["res://.godot/imported/lander_B.gltf-1d3f43e03b3e991ada58c85f7aedabf6.scn"]
+source_file="res://assets/City_Assets/Space/lander_B.gltf"
+dest_files=["res://.godot/imported/lander_B.gltf-b8fe49d5d97e040f586d118494e5cdd4.scn"]
 
 [params]
 

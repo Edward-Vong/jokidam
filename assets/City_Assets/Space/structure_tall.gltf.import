@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b2g6jkry7taw3"
-path="res://.godot/imported/structure_tall.gltf-4a2f14be209c405650f4fa8dd6940ccb.scn"
+path="res://.godot/imported/structure_tall.gltf-db1f0f76b45d7c6ee53623038421ba69.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/structure_tall.gltf"
-dest_files=["res://.godot/imported/structure_tall.gltf-4a2f14be209c405650f4fa8dd6940ccb.scn"]
+source_file="res://assets/City_Assets/Space/structure_tall.gltf"
+dest_files=["res://.godot/imported/structure_tall.gltf-db1f0f76b45d7c6ee53623038421ba69.scn"]
 
 [params]
 

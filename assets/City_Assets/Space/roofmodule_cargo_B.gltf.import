@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bn7awlurj6r4o"
-path="res://.godot/imported/roofmodule_cargo_B.gltf-d280c8fd68ed8968b31382048b4fb8bf.scn"
+path="res://.godot/imported/roofmodule_cargo_B.gltf-40c51d9bd97c3d019b7dc000e9b95ffb.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/roofmodule_cargo_B.gltf"
-dest_files=["res://.godot/imported/roofmodule_cargo_B.gltf-d280c8fd68ed8968b31382048b4fb8bf.scn"]
+source_file="res://assets/City_Assets/Space/roofmodule_cargo_B.gltf"
+dest_files=["res://.godot/imported/roofmodule_cargo_B.gltf-40c51d9bd97c3d019b7dc000e9b95ffb.scn"]
 
 [params]
 

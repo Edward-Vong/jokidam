@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://boiimi73i6mnl"
-path="res://.godot/imported/watertower.gltf-52038da89d9c0ed2d38023156f2ea7ce.scn"
+path="res://.godot/imported/watertower.gltf-76c6e08535d2b86e207e4ad27c276dbe.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/watertower.gltf"
-dest_files=["res://.godot/imported/watertower.gltf-52038da89d9c0ed2d38023156f2ea7ce.scn"]
+source_file="res://assets/City_Assets/City/watertower.gltf"
+dest_files=["res://.godot/imported/watertower.gltf-76c6e08535d2b86e207e4ad27c276dbe.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cque7vrf7p13c"
-path="res://.godot/imported/mobile_base_cargo.gltf-1f25a85ae70195bf414a1f6b089f0d57.scn"
+path="res://.godot/imported/mobile_base_cargo.gltf-c9f6df6f86439e4bcbb1ce95279e495f.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/mobile_base_cargo.gltf"
-dest_files=["res://.godot/imported/mobile_base_cargo.gltf-1f25a85ae70195bf414a1f6b089f0d57.scn"]
+source_file="res://assets/City_Assets/Space/mobile_base_cargo.gltf"
+dest_files=["res://.godot/imported/mobile_base_cargo.gltf-c9f6df6f86439e4bcbb1ce95279e495f.scn"]
 
 [params]
 

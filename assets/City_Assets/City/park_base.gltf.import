@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dynvpom205x5y"
-path="res://.godot/imported/park_base.gltf-22cae2bd810483e870dc3510fa37d57f.scn"
+path="res://.godot/imported/park_base.gltf-de9747d03295369ecb3b89ae529b5c60.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_base.gltf"
-dest_files=["res://.godot/imported/park_base.gltf-22cae2bd810483e870dc3510fa37d57f.scn"]
+source_file="res://assets/City_Assets/City/park_base.gltf"
+dest_files=["res://.godot/imported/park_base.gltf-de9747d03295369ecb3b89ae529b5c60.scn"]
 
 [params]
 

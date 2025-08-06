@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dku51terld3h2"
-path="res://.godot/imported/park_road_corner_decorated.gltf-ee4ac9e244e7d15bd88e75736fc5d2cf.scn"
+path="res://.godot/imported/park_road_corner_decorated.gltf-c8f6023d53597de19a4685dd1c4230c6.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_road_corner_decorated.gltf"
-dest_files=["res://.godot/imported/park_road_corner_decorated.gltf-ee4ac9e244e7d15bd88e75736fc5d2cf.scn"]
+source_file="res://assets/City_Assets/City/park_road_corner_decorated.gltf"
+dest_files=["res://.godot/imported/park_road_corner_decorated.gltf-c8f6023d53597de19a4685dd1c4230c6.scn"]
 
 [params]
 

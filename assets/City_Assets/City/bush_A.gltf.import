@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://p50whur6wcdx"
-path="res://.godot/imported/bush_A.gltf-03288e68066361adf2f376f372245813.scn"
+path="res://.godot/imported/bush_A.gltf-b442ae1afdcca1e621145e091e3d3518.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/bush_A.gltf"
-dest_files=["res://.godot/imported/bush_A.gltf-03288e68066361adf2f376f372245813.scn"]
+source_file="res://assets/City_Assets/City/bush_A.gltf"
+dest_files=["res://.godot/imported/bush_A.gltf-b442ae1afdcca1e621145e091e3d3518.scn"]
 
 [params]
 

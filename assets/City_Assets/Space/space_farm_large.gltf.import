@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://22pgce0j6cpw"
-path="res://.godot/imported/space_farm_large.gltf-3bd8f5b98eb75349f145c799fd1a9b1d.scn"
+path="res://.godot/imported/space_farm_large.gltf-083f80ca0650ff5379cada73e4fc4e6a.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/space_farm_large.gltf"
-dest_files=["res://.godot/imported/space_farm_large.gltf-3bd8f5b98eb75349f145c799fd1a9b1d.scn"]
+source_file="res://assets/City_Assets/Space/space_farm_large.gltf"
+dest_files=["res://.godot/imported/space_farm_large.gltf-083f80ca0650ff5379cada73e4fc4e6a.scn"]
 
 [params]
 

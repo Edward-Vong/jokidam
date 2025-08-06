@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0ec0uvlme4xg"
-path="res://.godot/imported/mobile_base_carriage.gltf-28300317fdaa620eacc7d34952f3fbf6.scn"
+path="res://.godot/imported/mobile_base_carriage.gltf-2c03fe23d014f64719922a5e84f55b9c.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/mobile_base_carriage.gltf"
-dest_files=["res://.godot/imported/mobile_base_carriage.gltf-28300317fdaa620eacc7d34952f3fbf6.scn"]
+source_file="res://assets/City_Assets/Space/mobile_base_carriage.gltf"
+dest_files=["res://.godot/imported/mobile_base_carriage.gltf-2c03fe23d014f64719922a5e84f55b9c.scn"]
 
 [params]
 

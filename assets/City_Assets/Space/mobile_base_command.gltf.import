@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dt26f3o2uo0vb"
-path="res://.godot/imported/mobile_base_command.gltf-52ee153979710ab7a3813b5ff04da4b9.scn"
+path="res://.godot/imported/mobile_base_command.gltf-83f975f5bc935e09e974bbf92ff09323.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/mobile_base_command.gltf"
-dest_files=["res://.godot/imported/mobile_base_command.gltf-52ee153979710ab7a3813b5ff04da4b9.scn"]
+source_file="res://assets/City_Assets/Space/mobile_base_command.gltf"
+dest_files=["res://.godot/imported/mobile_base_command.gltf-83f975f5bc935e09e974bbf92ff09323.scn"]
 
 [params]
 

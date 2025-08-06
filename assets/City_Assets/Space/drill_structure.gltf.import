@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c6t7mfjnqjcux"
-path="res://.godot/imported/drill_structure.gltf-7d67132cb47b7301aeff0866bf44b7ae.scn"
+path="res://.godot/imported/drill_structure.gltf-5c0165397a21d92015516c44793b9402.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/drill_structure.gltf"
-dest_files=["res://.godot/imported/drill_structure.gltf-7d67132cb47b7301aeff0866bf44b7ae.scn"]
+source_file="res://assets/City_Assets/Space/drill_structure.gltf"
+dest_files=["res://.godot/imported/drill_structure.gltf-5c0165397a21d92015516c44793b9402.scn"]
 
 [params]
 

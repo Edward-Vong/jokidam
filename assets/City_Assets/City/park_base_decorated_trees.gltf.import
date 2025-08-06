@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dlg4t3he25l4r"
-path="res://.godot/imported/park_base_decorated_trees.gltf-b5816f304ad39fcc3127b8f8d17e66ec.scn"
+path="res://.godot/imported/park_base_decorated_trees.gltf-5e419e34bb3fc8224fa16bae870801f6.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_base_decorated_trees.gltf"
-dest_files=["res://.godot/imported/park_base_decorated_trees.gltf-b5816f304ad39fcc3127b8f8d17e66ec.scn"]
+source_file="res://assets/City_Assets/City/park_base_decorated_trees.gltf"
+dest_files=["res://.godot/imported/park_base_decorated_trees.gltf-5e419e34bb3fc8224fa16bae870801f6.scn"]
 
 [params]
 

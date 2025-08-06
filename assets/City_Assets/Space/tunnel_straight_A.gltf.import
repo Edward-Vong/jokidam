@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://blcbrlciwwrqy"
-path="res://.godot/imported/tunnel_straight_A.gltf-ff8a0ec104b4495c9230c4dc42aed360.scn"
+path="res://.godot/imported/tunnel_straight_A.gltf-b1af8b96ad0dbf2dc5062d5ed633a03c.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/tunnel_straight_A.gltf"
-dest_files=["res://.godot/imported/tunnel_straight_A.gltf-ff8a0ec104b4495c9230c4dc42aed360.scn"]
+source_file="res://assets/City_Assets/Space/tunnel_straight_A.gltf"
+dest_files=["res://.godot/imported/tunnel_straight_A.gltf-b1af8b96ad0dbf2dc5062d5ed633a03c.scn"]
 
 [params]
 

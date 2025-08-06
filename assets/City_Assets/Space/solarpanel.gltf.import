@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c3d67cc3nn5ji"
-path="res://.godot/imported/solarpanel.gltf-0ac883ef66b8110962452dcb3c5ce661.scn"
+path="res://.godot/imported/solarpanel.gltf-9ae3b1e913e1916591536d599b5f03ae.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/solarpanel.gltf"
-dest_files=["res://.godot/imported/solarpanel.gltf-0ac883ef66b8110962452dcb3c5ce661.scn"]
+source_file="res://assets/City_Assets/Space/solarpanel.gltf"
+dest_files=["res://.godot/imported/solarpanel.gltf-9ae3b1e913e1916591536d599b5f03ae.scn"]
 
 [params]
 

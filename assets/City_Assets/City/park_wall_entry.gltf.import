@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://tusw5pvyrlu5"
-path="res://.godot/imported/park_wall_entry.gltf-d02c8d7b463d633de44b5d85552f40fc.scn"
+path="res://.godot/imported/park_wall_entry.gltf-600fab3f33648787cff3c57e7dd33474.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_wall_entry.gltf"
-dest_files=["res://.godot/imported/park_wall_entry.gltf-d02c8d7b463d633de44b5d85552f40fc.scn"]
+source_file="res://assets/City_Assets/City/park_wall_entry.gltf"
+dest_files=["res://.godot/imported/park_wall_entry.gltf-600fab3f33648787cff3c57e7dd33474.scn"]
 
 [params]
 

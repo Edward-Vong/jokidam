@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bq5c664uy6qlb"
-path="res://.godot/imported/windturbine_tall.gltf-fd9e6d818f0be879b9e13afa061cb0c4.scn"
+path="res://.godot/imported/windturbine_tall.gltf-6c2cfcc2b127ebc54c3ee15f932b3748.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/windturbine_tall.gltf"
-dest_files=["res://.godot/imported/windturbine_tall.gltf-fd9e6d818f0be879b9e13afa061cb0c4.scn"]
+source_file="res://assets/City_Assets/Space/windturbine_tall.gltf"
+dest_files=["res://.godot/imported/windturbine_tall.gltf-6c2cfcc2b127ebc54c3ee15f932b3748.scn"]
 
 [params]
 

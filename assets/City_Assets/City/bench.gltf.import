@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://nwu6pi8r7p84"
-path="res://.godot/imported/bench.gltf-f531147d97f7f82867066d5a18b975a5.scn"
+path="res://.godot/imported/bench.gltf-fe24167a72b2317a4567f2b6cb0165cb.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/bench.gltf"
-dest_files=["res://.godot/imported/bench.gltf-f531147d97f7f82867066d5a18b975a5.scn"]
+source_file="res://assets/City_Assets/City/bench.gltf"
+dest_files=["res://.godot/imported/bench.gltf-fe24167a72b2317a4567f2b6cb0165cb.scn"]
 
 [params]
 

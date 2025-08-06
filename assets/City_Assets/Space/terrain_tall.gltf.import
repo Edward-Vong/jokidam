@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bcvgmq0p6x28a"
-path="res://.godot/imported/terrain_tall.gltf-f47a963dcb75c91dc4d80d25c7b6c0fa.scn"
+path="res://.godot/imported/terrain_tall.gltf-8e196ca5a11f871658b11c761462431a.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/terrain_tall.gltf"
-dest_files=["res://.godot/imported/terrain_tall.gltf-f47a963dcb75c91dc4d80d25c7b6c0fa.scn"]
+source_file="res://assets/City_Assets/Space/terrain_tall.gltf"
+dest_files=["res://.godot/imported/terrain_tall.gltf-8e196ca5a11f871658b11c761462431a.scn"]
 
 [params]
 

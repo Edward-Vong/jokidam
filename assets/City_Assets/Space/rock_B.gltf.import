@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://x6qhaq3xjmfh"
-path="res://.godot/imported/rock_B.gltf-49ac67552bba9290fc2bbaa6aa47b913.scn"
+path="res://.godot/imported/rock_B.gltf-2b902069fc58b730b898b905aa9810a6.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/rock_B.gltf"
-dest_files=["res://.godot/imported/rock_B.gltf-49ac67552bba9290fc2bbaa6aa47b913.scn"]
+source_file="res://assets/City_Assets/Space/rock_B.gltf"
+dest_files=["res://.godot/imported/rock_B.gltf-2b902069fc58b730b898b905aa9810a6.scn"]
 
 [params]
 

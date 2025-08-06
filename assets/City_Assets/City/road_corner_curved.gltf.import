@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dducetsu1ytan"
-path="res://.godot/imported/road_corner_curved.gltf-1276f3bb6799db911ed6a3aacf2efaac.scn"
+path="res://.godot/imported/road_corner_curved.gltf-f1fca33a50fd22fb40abd3b152a26afa.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/road_corner_curved.gltf"
-dest_files=["res://.godot/imported/road_corner_curved.gltf-1276f3bb6799db911ed6a3aacf2efaac.scn"]
+source_file="res://assets/City_Assets/City/road_corner_curved.gltf"
+dest_files=["res://.godot/imported/road_corner_curved.gltf-f1fca33a50fd22fb40abd3b152a26afa.scn"]
 
 [params]
 

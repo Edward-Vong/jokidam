@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://8siufbeghcov"
-path="res://.godot/imported/park_road_straight_decorated_A.gltf-5fbb9d133bd05be8ae3c896886d36d45.scn"
+path="res://.godot/imported/park_road_straight_decorated_A.gltf-81da544eb1e19c6731c0fc98c13f985e.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_road_straight_decorated_A.gltf"
-dest_files=["res://.godot/imported/park_road_straight_decorated_A.gltf-5fbb9d133bd05be8ae3c896886d36d45.scn"]
+source_file="res://assets/City_Assets/City/park_road_straight_decorated_A.gltf"
+dest_files=["res://.godot/imported/park_road_straight_decorated_A.gltf-81da544eb1e19c6731c0fc98c13f985e.scn"]
 
 [params]
 

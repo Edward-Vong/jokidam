@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dxkqmxsy40227"
-path="res://.godot/imported/water_storage.gltf-d82853dd8cc013cea7dba566eedf2342.scn"
+path="res://.godot/imported/water_storage.gltf-4be75129f6562d8ae973f9abce5b8f54.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/water_storage.gltf"
-dest_files=["res://.godot/imported/water_storage.gltf-d82853dd8cc013cea7dba566eedf2342.scn"]
+source_file="res://assets/City_Assets/Space/water_storage.gltf"
+dest_files=["res://.godot/imported/water_storage.gltf-4be75129f6562d8ae973f9abce5b8f54.scn"]
 
 [params]
 

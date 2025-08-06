@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cvpu08ilg6g3f"
-path="res://.godot/imported/park_road_tsplit.gltf-51e381cc4215c52745a783845b532db7.scn"
+path="res://.godot/imported/park_road_tsplit.gltf-0e2f7afd8f956c3457b43a27ee00648b.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/park_road_tsplit.gltf"
-dest_files=["res://.godot/imported/park_road_tsplit.gltf-51e381cc4215c52745a783845b532db7.scn"]
+source_file="res://assets/City_Assets/City/park_road_tsplit.gltf"
+dest_files=["res://.godot/imported/park_road_tsplit.gltf-0e2f7afd8f956c3457b43a27ee00648b.scn"]
 
 [params]
 

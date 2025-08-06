@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cor053mxoyhnu"
-path="res://.godot/imported/building_H_withoutBase.gltf-0b64d0ab0075ac10c2660c75e76622b6.scn"
+path="res://.godot/imported/building_H_withoutBase.gltf-a3b92a34c1027e18fee24ebb85dc5608.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/building_H_withoutBase.gltf"
-dest_files=["res://.godot/imported/building_H_withoutBase.gltf-0b64d0ab0075ac10c2660c75e76622b6.scn"]
+source_file="res://assets/City_Assets/City/building_H_withoutBase.gltf"
+dest_files=["res://.godot/imported/building_H_withoutBase.gltf-a3b92a34c1027e18fee24ebb85dc5608.scn"]
 
 [params]
 

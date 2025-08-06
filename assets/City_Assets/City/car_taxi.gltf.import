@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dq66j6tvfcp1c"
-path="res://.godot/imported/car_taxi.gltf-ef7889878f0dab1b0da0def5a3feac99.scn"
+path="res://.godot/imported/car_taxi.gltf-52e2721e0118e83635369aff7f0fdff4.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/car_taxi.gltf"
-dest_files=["res://.godot/imported/car_taxi.gltf-ef7889878f0dab1b0da0def5a3feac99.scn"]
+source_file="res://assets/City_Assets/City/car_taxi.gltf"
+dest_files=["res://.godot/imported/car_taxi.gltf-52e2721e0118e83635369aff7f0fdff4.scn"]
 
 [params]
 

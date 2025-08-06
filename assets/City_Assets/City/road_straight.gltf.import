@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6wsk7xcvwgbu"
-path="res://.godot/imported/road_straight.gltf-7d279213fe7397912c80c8204e005b7e.scn"
+path="res://.godot/imported/road_straight.gltf-a81733141384143e5d4d9e616057c086.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/road_straight.gltf"
-dest_files=["res://.godot/imported/road_straight.gltf-7d279213fe7397912c80c8204e005b7e.scn"]
+source_file="res://assets/City_Assets/City/road_straight.gltf"
+dest_files=["res://.godot/imported/road_straight.gltf-a81733141384143e5d4d9e616057c086.scn"]
 
 [params]
 

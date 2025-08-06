@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dkmny2g8l6ar6"
-path="res://.godot/imported/road_tsplit.gltf-6ee5efa551b165ac403043d7c6acb8a0.scn"
+path="res://.godot/imported/road_tsplit.gltf-d565e6388fb875f65787b51d9de9df9d.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/road_tsplit.gltf"
-dest_files=["res://.godot/imported/road_tsplit.gltf-6ee5efa551b165ac403043d7c6acb8a0.scn"]
+source_file="res://assets/City_Assets/City/road_tsplit.gltf"
+dest_files=["res://.godot/imported/road_tsplit.gltf-d565e6388fb875f65787b51d9de9df9d.scn"]
 
 [params]
 

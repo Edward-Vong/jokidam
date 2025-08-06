@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bagm3gtkrqmp3"
-path="res://.godot/imported/landingpad_small.gltf-e9afa1054c833cd5936fc494c02a4069.scn"
+path="res://.godot/imported/landingpad_small.gltf-3648fa8f8fc737ce5e494b08a676746a.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/landingpad_small.gltf"
-dest_files=["res://.godot/imported/landingpad_small.gltf-e9afa1054c833cd5936fc494c02a4069.scn"]
+source_file="res://assets/City_Assets/Space/landingpad_small.gltf"
+dest_files=["res://.godot/imported/landingpad_small.gltf-3648fa8f8fc737ce5e494b08a676746a.scn"]
 
 [params]
 

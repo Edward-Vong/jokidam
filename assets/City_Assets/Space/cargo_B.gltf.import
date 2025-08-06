@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ogh44r78iuv1"
-path="res://.godot/imported/cargo_B.gltf-9f7920acbcf5210657d27ca1ba7daf6f.scn"
+path="res://.godot/imported/cargo_B.gltf-e85b98a1ec4fc21837992d67b3bf4f07.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/cargo_B.gltf"
-dest_files=["res://.godot/imported/cargo_B.gltf-9f7920acbcf5210657d27ca1ba7daf6f.scn"]
+source_file="res://assets/City_Assets/Space/cargo_B.gltf"
+dest_files=["res://.godot/imported/cargo_B.gltf-e85b98a1ec4fc21837992d67b3bf4f07.scn"]
 
 [params]
 

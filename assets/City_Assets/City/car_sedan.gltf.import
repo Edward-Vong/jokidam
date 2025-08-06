@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cb5u3q1qrs8cp"
-path="res://.godot/imported/car_sedan.gltf-c4b6e8ae968805d84c283566a394b272.scn"
+path="res://.godot/imported/car_sedan.gltf-37328f1c6b6c511f3589cfdcb02df151.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/City_Extra/car_sedan.gltf"
-dest_files=["res://.godot/imported/car_sedan.gltf-c4b6e8ae968805d84c283566a394b272.scn"]
+source_file="res://assets/City_Assets/City/car_sedan.gltf"
+dest_files=["res://.godot/imported/car_sedan.gltf-37328f1c6b6c511f3589cfdcb02df151.scn"]
 
 [params]
 

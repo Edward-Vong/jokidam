@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dvrml1oe2d7sh"
-path="res://.godot/imported/basemodule_garage.gltf-841e2570fdf7b5308b17f00752c82bd0.scn"
+path="res://.godot/imported/basemodule_garage.gltf-154754d924f2d6a23783fe9a2cf4fe06.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/basemodule_garage.gltf"
-dest_files=["res://.godot/imported/basemodule_garage.gltf-841e2570fdf7b5308b17f00752c82bd0.scn"]
+source_file="res://assets/City_Assets/Space/basemodule_garage.gltf"
+dest_files=["res://.godot/imported/basemodule_garage.gltf-154754d924f2d6a23783fe9a2cf4fe06.scn"]
 
 [params]
 

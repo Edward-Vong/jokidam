@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cym4xhmfq6idw"
-path="res://.godot/imported/space_farm_large_sprinkler.gltf-7ea80bed3744d4ff071958d8c3f1355d.scn"
+path="res://.godot/imported/space_farm_large_sprinkler.gltf-9a877b959cf1dee03b886d6c8f66c77c.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/space_farm_large_sprinkler.gltf"
-dest_files=["res://.godot/imported/space_farm_large_sprinkler.gltf-7ea80bed3744d4ff071958d8c3f1355d.scn"]
+source_file="res://assets/City_Assets/Space/space_farm_large_sprinkler.gltf"
+dest_files=["res://.godot/imported/space_farm_large_sprinkler.gltf-9a877b959cf1dee03b886d6c8f66c77c.scn"]
 
 [params]
 

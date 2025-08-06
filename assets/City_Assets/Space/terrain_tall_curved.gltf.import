@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dhsjuoj0yj6u2"
-path="res://.godot/imported/terrain_tall_curved.gltf-9454979fc2fafb7782d3afcc047873c5.scn"
+path="res://.godot/imported/terrain_tall_curved.gltf-4e7886c5a48a5274466ca58748f03f2e.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/terrain_tall_curved.gltf"
-dest_files=["res://.godot/imported/terrain_tall_curved.gltf-9454979fc2fafb7782d3afcc047873c5.scn"]
+source_file="res://assets/City_Assets/Space/terrain_tall_curved.gltf"
+dest_files=["res://.godot/imported/terrain_tall_curved.gltf-4e7886c5a48a5274466ca58748f03f2e.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dkqv5qtupouj5"
-path="res://.godot/imported/terrain_low.gltf-a761c7e17c2dd25f56041b3ab77237dd.scn"
+path="res://.godot/imported/terrain_low.gltf-aab389568891ef27c099382e44ab23c0.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/terrain_low.gltf"
-dest_files=["res://.godot/imported/terrain_low.gltf-a761c7e17c2dd25f56041b3ab77237dd.scn"]
+source_file="res://assets/City_Assets/Space/terrain_low.gltf"
+dest_files=["res://.godot/imported/terrain_low.gltf-aab389568891ef27c099382e44ab23c0.scn"]
 
 [params]
 

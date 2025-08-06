@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ctuc6phrjpek2"
-path="res://.godot/imported/spacetruck_large.gltf-2f64ce62e1605be821a2bd21f04a8e54.scn"
+path="res://.godot/imported/spacetruck_large.gltf-df5d84d8b2917903b24f25f9883d55dc.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/spacetruck_large.gltf"
-dest_files=["res://.godot/imported/spacetruck_large.gltf-2f64ce62e1605be821a2bd21f04a8e54.scn"]
+source_file="res://assets/City_Assets/Space/spacetruck_large.gltf"
+dest_files=["res://.godot/imported/spacetruck_large.gltf-df5d84d8b2917903b24f25f9883d55dc.scn"]
 
 [params]
 

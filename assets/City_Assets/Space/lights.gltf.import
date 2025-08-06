@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cloakvvfx1kiu"
-path="res://.godot/imported/lights.gltf-145c362e3a5c634c6c291d024314e7d3.scn"
+path="res://.godot/imported/lights.gltf-8469ebe93842afe1ecb5684733130256.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/lights.gltf"
-dest_files=["res://.godot/imported/lights.gltf-145c362e3a5c634c6c291d024314e7d3.scn"]
+source_file="res://assets/City_Assets/Space/lights.gltf"
+dest_files=["res://.godot/imported/lights.gltf-8469ebe93842afe1ecb5684733130256.scn"]
 
 [params]
 

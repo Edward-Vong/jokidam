@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cfgio5usobrsg"
-path="res://.godot/imported/terrain_mining.gltf-5c80decb65aa5d36823b85514d61c211.scn"
+path="res://.godot/imported/terrain_mining.gltf-47fb42a591e9db98c4c55e104ca37c05.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/terrain_mining.gltf"
-dest_files=["res://.godot/imported/terrain_mining.gltf-5c80decb65aa5d36823b85514d61c211.scn"]
+source_file="res://assets/City_Assets/Space/terrain_mining.gltf"
+dest_files=["res://.godot/imported/terrain_mining.gltf-47fb42a591e9db98c4c55e104ca37c05.scn"]
 
 [params]
 

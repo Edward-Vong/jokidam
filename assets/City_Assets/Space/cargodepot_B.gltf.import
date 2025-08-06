@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://seegqdalkomb"
-path="res://.godot/imported/cargodepot_B.gltf-626af69cadd8406183bc7dcb17f886b1.scn"
+path="res://.godot/imported/cargodepot_B.gltf-ec5838db0e427c53c9e2373a0349b4b8.scn"
 
 [deps]
 
-source_file="res://assets/City_Assets/Space_Extra/cargodepot_B.gltf"
-dest_files=["res://.godot/imported/cargodepot_B.gltf-626af69cadd8406183bc7dcb17f886b1.scn"]
+source_file="res://assets/City_Assets/Space/cargodepot_B.gltf"
+dest_files=["res://.godot/imported/cargodepot_B.gltf-ec5838db0e427c53c9e2373a0349b4b8.scn"]
 
 [params]
 
