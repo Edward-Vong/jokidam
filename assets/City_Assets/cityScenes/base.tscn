@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://lof03kmv042o"]
+
+[ext_resource type="PackedScene" uid="uid://6mpwthk5uug" path="res://assets/City_Assets/City/base.gltf" id="1_51tu5"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="base2" parent="." instance=ExtResource("1_51tu5")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.1, 0)
+
+[node name="CSGBox3D" type="CSGBox3D" parent="base2"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0485389, 0)
+use_collision = true
+size = Vector3(2, 0.1, 2)
