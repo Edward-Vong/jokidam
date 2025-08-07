@@ -1,0 +1,56 @@
+[gd_scene load_steps=6 format=4 uid="uid://c8gc1pm863k47"]
+
+[ext_resource type="Texture2D" uid="uid://cyr72oeajjdjg" path="res://assets/City_Assets/City/citybits_texture.png" id="1_787wr"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tcdbp"]
+resource_name = "citybits_texture"
+albedo_texture = ExtResource("1_787wr")
+roughness = 0.4
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_8h08o"]
+_surfaces = [{
+"aabb": AABB(-0.258415, 0, -0.271982, 0.50988, 0.336545, 0.519502),
+"format": 34896613377,
+"index_count": 147,
+"index_data": PackedByteArray("AAAOAA8AAAABAA4ABQAAAA8AAQAQAA4AAQACABAABQAPABEABgAFABEACQAPAA4ABgARABIAAwAGABIAEwARAA8AEwAPAAkAFAASABEAFAARABMAAwASABUABAADABUAFgASABQAFgAVABIABAAVABcAAgAEABcAAgAXABAADQAXABUADQAVABYABwAQABcABwAXAA0ACgAQAAcACgAOABAACQAOAAoACgAHAAsACQAKABgACgALABgABwAZAAsABwANABkAGgAYAAsAGgALABkACQAYABsAGgAbABgAEwAJABsADQAMABkAGgAZAAwADQAWAAwAEwAbAAgAGgAIABsAFAATAAgAGgAMABwAFgAcAAwAGgAcAAgAFgAUABwAFAAIABwA"),
+"lods": [0.104861, PackedByteArray("AAABAAkABQAAAAkACAAFAAkACAAGAAUACQABAAoACQAKAAgACgABAAcAAQACAAcACwAIAAoACgAHAAsADAAGAAgACwAMAAgADAADAAYABwANAAsADQAMAAsAAgANAAcADQADAAwAAgAEAA0ABAADAA0A"), 0.158854, PackedByteArray("AQACAAcAAgAEAAcAAAABAAcABAADAAcAAAAHAAgABwADAAgACAAFAAAACAADAAYACAAGAAUA"), 0.278809, PackedByteArray("AAABAAIAAAACAAMABAADAAIAAwAFAAAAAwAGAAUA")],
+"name": "citybits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 29,
+"vertex_data": PackedByteArray("pzcAAKBCAAAGhgAAfB4AAH/QAADzRQAAEawAAOPjAAA/4wAA5ZwAAMkdAACymAAAYlEAABDiAAD55pt2AjMAAOoxA9W7lAAAxCP9c+EtAABQiGBzDwAAAF/CONMxUwAA6aKp1oDSAADQ/wt5kaMAAO2HtxwAAAAALCO0HAcuAAD85kUeyzIAAAAADSEDnQAAUkJXIx/9AABtAI95sZwAAEhCTW7o/AAA/bg+ItT/AADCuAV7//8AAP//IiBIowAAOIaK0YAyAAA90CnV4pkAACiC//8thgAAw0YL0k1PAACrWgbXNNAAAA==")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_853t0"]
+resource_name = "bush_A_Cube_14215"
+_surfaces = [{
+"aabb": AABB(-0.258415, 0, -0.271982, 0.50988, 0.336545, 0.519502),
+"attribute_data": PackedByteArray("U0jinadJtJsFS/uan0rAnn1LTpz8R/afA0lloA5LDJXfR6CVuEemmGBJ85U4Ss2R30m4lKdLtJaESb+Y3EdzmzRL1ZdnRwmerkiankJHRJuISNmbuUqKnJNKzJnOS3iZKklVko9K2JIYSZmLIkgDlKVI95U="),
+"format": 34896613399,
+"index_count": 147,
+"index_data": PackedByteArray("AAAOAA8AAAABAA4ABQAAAA8AAQAQAA4AAQACABAABQAPABEABgAFABEACQAPAA4ABgARABIAAwAGABIAEwARAA8AEwAPAAkAFAASABEAFAARABMAAwASABUABAADABUAFgASABQAFgAVABIABAAVABcAAgAEABcAAgAXABAADQAXABUADQAVABYABwAQABcABwAXAA0ACgAQAAcACgAOABAACQAOAAoACgAHAAsACQAKABgACgALABgABwAZAAsABwANABkAGgAYAAsAGgALABkACQAYABsAGgAbABgAEwAJABsADQAMABkAGgAZAAwADQAWAAwAEwAbAAgAGgAIABsAFAATAAgAGgAMABwAFgAcAAwAGgAcAAgAFgAUABwAFAAIABwA"),
+"lods": [0.104861, PackedByteArray("AAABAAkABQAAAAkACAAFAAkACAAGAAUACQABAAoACQAKAAgACgABAAcAAQACAAcACwAIAAoACgAHAAsADAAGAAgACwAMAAgADAADAAYABwANAAsADQAMAAsAAgANAAcADQADAAwAAgAEAA0ABAADAA0A"), 0.158854, PackedByteArray("AQACAAcAAgAEAAcAAAABAAcABAADAAcAAAAHAAgABwADAAgACAAFAAAACAADAAYACAAGAAUA"), 0.278809, PackedByteArray("AAABAAIAAAACAAMABAADAAIAAwAFAAAAAwAGAAUA")],
+"material": SubResource("StandardMaterial3D_tcdbp"),
+"name": "citybits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 29,
+"vertex_data": PackedByteArray("pzcAAKBCOikGhgAAfB4jKX/QAADzRSQkEawAAOPj/64/4wAA5ZyeJskdAACymBq/YlEAABDiHqr55pt2AjNBCuoxA9W7lBa+xCP9c+EtHQRQiGBzDwDpDF/CONMxUy4f6aKp1oDS/afQ/wt5kaNgAu2HtxwAAAkSLCO0HAcukxb85kUeyzIEEQAADSEDnfi6UkJXIx/9+pltAI95sZxuukhCTW7o/FGY/bg+ItT/Q5/CuAV7//+Hmf//IiBIo6cXOIaK0YAydiQ90CnV4pmYuiiC//8thg0/w0YL0k1PIxurWgbXNNBPqvsn1HjxC6iTEBLothpIcFrmEanHQzq80BIjt64zz/GImLP8u8XqmEfq7vZtJ8euk3Tef2TcsWWOuQ7bk0oqwIe/Br2ux1dz5BZCCMSzmlvf8KQzxk1gek0erz1UNwOcxdPzFG+Ix65FEvk4cjLmJUJHw/qm")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_8h08o")
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_lcdj3"]
+height = 0.341797
+radius = 0.269531
+
+[node name="bushB" type="MeshInstance3D"]
+mesh = SubResource("ArrayMesh_853t0")
+skeleton = NodePath("")
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.166992, 0)
+shape = SubResource("CylinderShape3D_lcdj3")
