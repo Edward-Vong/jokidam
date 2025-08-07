@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://myjx7wt8eo3h"
-path="res://.godot/imported/Dragoon_Egg.fbx-589972166986422621fa51cb29b5a4be.scn"
+uid="uid://dwn47444yncvu"
+path="res://.godot/imported/Dragoon_Long.fbx-9c7384122db4037f000ce150b0c98a4a.scn"
 
 [deps]
 
-source_file="res://assets/Dokibird_Assets/Dragoons/Dragoon_Egg.fbx"
-dest_files=["res://.godot/imported/Dragoon_Egg.fbx-589972166986422621fa51cb29b5a4be.scn"]
+source_file="res://assets/Dokibird_Assets/Dragoons/fbx/Dragoon_Long.fbx"
+dest_files=["res://.godot/imported/Dragoon_Long.fbx-9c7384122db4037f000ce150b0c98a4a.scn"]
 
 [params]
 
