@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://ws1jeof4iijy"]
+
+[ext_resource type="PackedScene" uid="uid://c6t7mfjnqjcux" path="res://assets/City_Assets/Space/drill_structure.gltf" id="1_uj1ff"]
+
+[node name="drill_structure2" instance=ExtResource("1_uj1ff")]
