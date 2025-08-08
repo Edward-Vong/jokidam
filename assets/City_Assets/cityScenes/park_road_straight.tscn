@@ -1,0 +1,53 @@
+[gd_scene load_steps=6 format=4 uid="uid://clv6psgi1tuia"]
+
+[ext_resource type="Texture2D" uid="uid://cyr72oeajjdjg" path="res://assets/City_Assets/City/citybits_texture.png" id="1_53vje"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_w5nur"]
+resource_name = "citybits_texture"
+albedo_texture = ExtResource("1_53vje")
+roughness = 0.4
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_hfb1a"]
+_surfaces = [{
+"aabb": AABB(-1, 0, -1, 2, 0.1, 2),
+"format": 34359742465,
+"index_count": 84,
+"index_data": PackedByteArray("AAABAAIAAAADAAEAAQADAAQAAAAEAAMAAQAEAAUAAQAFAAYABgAFAAQAAQAGAAIAAAAHAAQABgAEAAcACAAHAAAACAAAAAIACQAGAAcAAgAGAAkACAAKAAcACQAHAAoACAACAAsAAgAJAAsADAAIAAsADAAKAAgADAALAA0ADAAOAAoADQAOAAwADwAJAAoACwAJAA8ADwAKAA4ACwAPAA0ADQAPAA4A"),
+"name": "citybits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 16,
+"vertex_data": PackedByteArray("AACAvsvMzD0AAIA/AACAv8vMzD0AAIC/AACAvsvMzD0AAIC/AACAv8vMzD0AAIA/AACAvwAAAAAAAIA/AACAvwAAAAAAAIC/AACAvgAAAAAAAIC/AACAvgAAAAAAAIA/AACAPsvMzD0AAIA/AACAPgAAAAAAAIC/AACAPgAAAAAAAIA/AACAPsvMzD0AAIC/AACAP8vMzD0AAIA/AACAP8vMzD0AAIC/AACAPwAAAAAAAIA/AACAPwAAAAAAAIC/")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_cbr3q"]
+resource_name = "park_road_straight_Cube_14206"
+_surfaces = [{
+"aabb": AABB(-1, 0, -1, 2, 0.1, 2),
+"attribute_data": PackedByteArray("xzSUPnp0Hj997ok+enQeP8c0lD57dB4/fe6JPnp0Hj/HNJQ+enQeP33uiT6GiyE/fe6JPnp0Hj/HNJQ+hoshP33uiT56dB4/fe6JPoaLIT997ok+hoshP33uiT56dB4/icKoPoOAHj+Jwqg+OpMhP4nCqD6DgB4/icKoPjqTIT/HNJQ+hospP33uiT6Giyk/xzSUPoaLKT997ok+hospPxF7nj6Giyk/EXuePoaLKT9bwag+hospP1vBqD6Giyk/EXuePnt0Hj9bwag+hoshP1vBqD56dB4/EXuePoeLIT997ok+enQeP8c0lD6HiyE/xzSUPnt0Hj997ok+hoshP2QaKj/26Lw+iD0vPw4Xwz6IPS8/9ui8PmQaKj8OF8M+W8GoPnp0Hj8Re54+hoshPxF7nj56dB4/W8GoPoaLIT+IPS8/9Oi8PmQaKj8MF8M+ZBoqP/TovD6IPS8/DBfDPlvBqD56dB4/EXuePnt0Hj9bwag+enQePxF7nj56dB4/iD0vP/TovD5kGio/9ui8Pog9Lz/26Lw+ZBoqP/TovD4="),
+"format": 34359742487,
+"index_count": 84,
+"index_data": PackedByteArray("AAABAAIAAAADAAEABAAFAAYABAAHAAUACAAJAAoACAALAAkADAANAA4ADAAPAA0AEAARABIAEAATABEAFAAQABIAFAASABUAFgAUABUAFgAVABcAGAAZABoAGAAbABkAHAAdAB4AHAAfAB0AIAAhACIAIAAjACEAJAAlACYAJAAnACUAKAApACoAKAArACkALAAtAC4ALAAvAC0AMAAxADIAMAAzADEA"),
+"material": SubResource("StandardMaterial3D_w5nur"),
+"name": "citybits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 52,
+"vertex_data": PackedByteArray("AACAvsvMzD0AAIA/AACAv8vMzD0AAIC/AACAvsvMzD0AAIC/AACAv8vMzD0AAIA/AACAvsvMzD0AAIA/AACAvwAAAAAAAIA/AACAv8vMzD0AAIA/AACAvgAAAAAAAIA/AACAv8vMzD0AAIC/AACAvwAAAAAAAIA/AACAvwAAAAAAAIC/AACAv8vMzD0AAIA/AACAP8vMzD0AAIC/AACAPwAAAAAAAIA/AACAP8vMzD0AAIA/AACAPwAAAAAAAIC/AACAvgAAAAAAAIC/AACAvwAAAAAAAIA/AACAvgAAAAAAAIA/AACAvwAAAAAAAIC/AACAPgAAAAAAAIC/AACAPgAAAAAAAIA/AACAPwAAAAAAAIC/AACAPwAAAAAAAIA/AACAPsvMzD0AAIC/AACAPwAAAAAAAIC/AACAP8vMzD0AAIC/AACAPgAAAAAAAIC/AACAv8vMzD0AAIC/AACAvgAAAAAAAIC/AACAvsvMzD0AAIC/AACAvwAAAAAAAIC/AACAvsvMzD0AAIC/AACAPgAAAAAAAIC/AACAPsvMzD0AAIC/AACAvgAAAAAAAIC/AACAP8vMzD0AAIA/AACAPgAAAAAAAIA/AACAPsvMzD0AAIA/AACAPwAAAAAAAIA/AACAPsvMzD0AAIA/AACAvgAAAAAAAIA/AACAvsvMzD0AAIA/AACAPgAAAAAAAIA/AACAP8vMzD0AAIA/AACAPsvMzD0AAIC/AACAP8vMzD0AAIC/AACAPsvMzD0AAIA/AACAPsvMzD0AAIA/AACAvsvMzD0AAIC/AACAPsvMzD0AAIC/AACAvsvMzD0AAIA//3///+ii/z//f///6KL/P/9////oov8//3///////7//f/9/////v/9//3////+//3//f////7//f/9/////vwAA/3////+/AAD/f////78AAP9/////vwAA/3////+/////f////7////9/////v////3////+/////f////7//fwAA////v/9/AAD///+//38AAP///7//fwAA////v/9/AAD///+//38AAP///7//fwAA////v/9/AAD///+///////7//z///////v//P//////+//8///////7//z///////v//P//////+//8///////7//z///////v//P/////////8//////////z//////////P/////////8//3//f////7//f/9/////v/9//3////+//3//f////7//f/9/////v/9//3////+//3//f////7//f/9/////v/9///////8//3///////z//f///////v/9///////8//3///////z//f///////P/9///////8//3///////z8=")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_hfb1a")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0cfo6"]
+size = Vector3(1.98688, 0.0941772, 2.00021)
+
+[node name="park_road_straight" type="MeshInstance3D"]
+mesh = SubResource("ArrayMesh_cbr3q")
+skeleton = NodePath("")
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0118713, 0.0523987, 0.00520325)
+shape = SubResource("BoxShape3D_0cfo6")

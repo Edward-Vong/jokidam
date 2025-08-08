@@ -1,0 +1,56 @@
+[gd_scene load_steps=6 format=4 uid="uid://bt61ut7p8uf4o"]
+
+[ext_resource type="Texture2D" uid="uid://cyr72oeajjdjg" path="res://assets/City_Assets/City/citybits_texture.png" id="1_gd6de"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_3lreo"]
+resource_name = "citybits_texture"
+albedo_texture = ExtResource("1_gd6de")
+roughness = 0.4
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_qqukn"]
+_surfaces = [{
+"aabb": AABB(-0.0600886, 0, -0.0666484, 0.126774, 0.0523769, 0.133297),
+"format": 34359742465,
+"index_count": 54,
+"index_data": PackedByteArray("AAAGAAIAAgAGAAMAAAACAAUAAgADAAUAAAAHAAYABgAIAAMABwAIAAYABQADAAkAAwAIAAkABQAJAAoAAAAFAAQABAAHAAAABAAFAAoAAQAIAAcABAABAAcACQAIAAEACgABAAQACgAJAAEA"),
+"lods": [0.0438451, PackedByteArray("AAABAAIAAgABAAMABAABAAAAAgADAAUABQADAAEABQABAAQAAAACAAUAAAAFAAQA")],
+"name": "citybits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 11,
+"vertex_data": PackedByteArray("N5KIPQAAAACKtyg9IUklvZbo9jzcK/A8N5KIPQAAAACItyi9aId8PJbo9jzoTUK9+Rw/vAAAAAD7fog9+Rw/vAAAAAD7foi9RU5MPZbo9jwAAACAaId8PJbo9jzoTUI9J5XXOzWJVj0Re+WwIUklvZbo9jzcK/C8gh92vQAAAABd+1cx")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_s7qk2"]
+resource_name = "trash_A_Icosphere_020"
+_surfaces = [{
+"aabb": AABB(-0.0600886, 0, -0.0666484, 0.126774, 0.0523769, 0.133297),
+"attribute_data": PackedByteArray("H1l4Pxpz0j4stmo/BlPBPh9ZeD8ac9I+3tBxPwZTwT7NXW4/GnPSPs1dbj8ac9I+ETV2PwZTwT7e0HE/BlPBPiy2aj8GU8E+XTJoPxpz0j7e0HE/kEqsPpDfcj+ma70+ETV2P5BKrD7e0HE/kEqsPiy2aj+QSqw+LLZqP5BKrD4="),
+"format": 34359742487,
+"index_count": 54,
+"index_data": PackedByteArray("AAAGAAIAAgAGAAMAAAAHAAYAAgADAAUAAAACAAUABQADAAgABAAHAAAAAAAFAAQABAABAAcABQAIAAkABAAFAAkACQAIAAEACQABAAQACgALAAwADAALAA0ADgALAAoADQALAA8ADwALAA4A"),
+"lods": [0.0438451, PackedByteArray("AAABAAIAAgABAAMABAABAAAAAgADAAUABQADAAEABQABAAQAAAACAAUAAAAFAAQA")],
+"material": SubResource("StandardMaterial3D_3lreo"),
+"name": "citybits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 16,
+"vertex_data": PackedByteArray("N5KIPQAAAACKtyg9IUklvZbo9jzcK/A8N5KIPQAAAACItyi9aId8PJbo9jzoTUK9+Rw/vAAAAAD7fog9+Rw/vAAAAAD7foi9RU5MPZbo9jwAAACAaId8PJbo9jzoTUI9IUklvZbo9jzcK/C8gh92vQAAAABd+1cxaId8PJbo9jzoTUI9J5XXOzWJVj0Re+WwRU5MPZbo9jwAAACAaId8PJbo9jzoTUK9IUklvZbo9jzcK/A8IUklvZbo9jzcK/C8db17Z4v6eOaJToOsVLWhxHrndj3///+/m8X/8OTihz/5a8leIORcwDYhBRT///+/nLlixhafuUz/jmO6Dv+MzoMsic659qoa9ysIVL2N3bL/jmO6s/7ATZGHbPgi2TG9nLlixhafRbObxf/wfORZv4lOg6xktyczgyyJzk7mTOQ=")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_qqukn")
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_e81js"]
+height = 0.0515442
+radius = 0.0786133
+
+[node name="trash_A" type="MeshInstance3D"]
+mesh = SubResource("ArrayMesh_s7qk2")
+skeleton = NodePath("")
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0266266, 0)
+shape = SubResource("CylinderShape3D_e81js")
