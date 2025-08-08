@@ -1,0 +1,54 @@
+[gd_scene load_steps=6 format=4 uid="uid://cpviw0ifml3sw"]
+
+[ext_resource type="Texture2D" uid="uid://8exxd0117yfx" path="res://assets/City_Assets/Space/spacebits_texture.png" id="1_miuhc"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_x2hio"]
+resource_name = "spacebits_texture"
+albedo_texture = ExtResource("1_miuhc")
+roughness = 0.6
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_7mdxl"]
+_surfaces = [{
+"aabb": AABB(-1, -1, -1, 2, 2, 2),
+"format": 34359742465,
+"index_count": 84,
+"index_data": PackedByteArray("CgABAAsACQALAAEACQAMAAsADQALAAwADQAKAAsACQAOAAwADQAMAA8ADAAOAA8ABwANAA8ABwAKAA0ABwAPAAgADwAOAAgABgAKAAcACAAGAAcADgAFAAgACAAFAAYABAAOAAkAAQAEAAkADgADAAUADgAEAAMABQACAAYAAgAKAAYABQADAAIACgAAAAEAAQAAAAQAAAAKAAIAAwAEAAAAAwAAAAIA"),
+"lods": [0.315503, PackedByteArray("AAABAAIAAwAAAAIAAwAEAAAAAQAAAAQABQADAAIABQAEAAMAAgABAAYABQACAAYABgABAAcACAAFAAYACAAGAAcABAAFAAkACQAFAAgAAQAEAAkABwAJAAgABwABAAkA")],
+"name": "spacebits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 16,
+"vertex_data": PackedByteArray("AACAvwAAgL8AAIA/AACAvwAAAAAAAIA/AACAPwAAgL8AAIA/AACAPwAAgL8AAIC/AACAvwAAgL8AAIC/AACAPwAAgD8AAIC/AACAPwAAgD8AAIA/zczMPQAAgD8AAIA/zczMPQAAgD8AAIC/AACAvwAAAAAAAIC/AAAAAGZmZj8AAIA/w9CQvejlbT8AAIA/wtCQvejlbT8AAIC/bI0MPLWyej8AAIA/AAAAAGZmZj8AAIC/cI0MPLWyej8AAIC/")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_c0e14"]
+resource_name = "terrain_slope_Cube_15116"
+_surfaces = [{
+"aabb": AABB(-1, -1, -1, 2, 2, 2),
+"attribute_data": PackedByteArray("lJBmPyR1Qj6UkGY/ZI0aPmMidj8kdUI+YyJ2P0hL5T3JIG8/SEvlPckgbz9IS6U9lJBmP8ga9T3JIG8/SEulPZSQZj/IGvU9YyJ2P0hL5T1jInY/JHVCPmMidj9IS+U9YyJ2PyR1Qj6UkGY/ZI0aPmMidj9IS+U9ySBvP0hL5T2UkGY/JHVCPmMidj8kdUI+ySBvP0AxJT1jInY/QDElPckgbz9AMSU9YyJ2P0AxJT2UkGY/ZI0aPpSQZj8kdUI+lJBmP2SNGj6UkGY/JHVCPmMidj8kdVI+lJBmPyR1Uj5jInY/JHVSPpSQZj8kdVI+gVluP2hG7T2WzG0/APDqPZNqbj9g8uY9gVluP2hG7T2WzG0/APDqPZNqbj9g8uY9lsxtPwDwqj2WzG0/APCqPZNqbj9g8qY9k2puP2Dypj0="),
+"format": 34359742487,
+"index_count": 84,
+"index_data": PackedByteArray("HgABAB8AHgAAAAEAIAAeAB8AAAAeAAIABAAeACAAAgAeAAMAAwAeAAQADQAhACIAIgAhACMAEAAhAA0AIwAhAA8AIQAQABEAIQAOAA8AIQARAA4ABgAkAAgABgAlACQAJgAkACUAJgAlACcABQAmACcABQAnAAcACQAKAAsACQAMAAoAEgATABQAEgAVABMAFgAXABgAFgAZABcAGgAbABwAGgAdABsA"),
+"lods": [0.315503, PackedByteArray("AAABAAIAAgABAAMAAwABAAQABQAGAAcABQAIAAYACQAKAAsACQAMAAoADQAOAA8AEAAOAA0ADgAQABEAEgATABQAEgAVABMAFgAXABgAFgAZABcAGgAbABwAGgAdABsA")],
+"material": SubResource("StandardMaterial3D_x2hio"),
+"name": "spacebits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 40,
+"vertex_data": PackedByteArray("AACAvwAAgL8AAIA/AACAvwAAAAAAAIA/AACAPwAAgL8AAIA/AACAPwAAgD8AAIA/zczMPQAAgD8AAIA/zczMPQAAgD8AAIA/AACAvwAAAAAAAIC/zczMPQAAgD8AAIC/AACAvwAAAAAAAIA/AACAPwAAgD8AAIC/AACAPwAAgL8AAIA/AACAPwAAgD8AAIA/AACAPwAAgL8AAIC/AACAvwAAAAAAAIC/AACAPwAAgD8AAIC/zczMPQAAgD8AAIC/AACAvwAAgL8AAIC/AACAPwAAgL8AAIC/zczMPQAAgD8AAIC/AACAPwAAgD8AAIA/zczMPQAAgD8AAIA/AACAPwAAgD8AAIC/AACAvwAAAAAAAIA/AACAvwAAgL8AAIC/AACAvwAAAAAAAIC/AACAvwAAgL8AAIA/AACAPwAAgL8AAIC/AACAvwAAgL8AAIA/AACAPwAAgL8AAIA/AACAvwAAgL8AAIC/AAAAAGZmZj8AAIA/w9CQvejlbT8AAIA/bI0MPLWyej8AAIA/AAAAAGZmZj8AAIC/wtCQvejlbT8AAIC/cI0MPLWyej8AAIC/w9CQvejlbT8AAIA/wtCQvejlbT8AAIC/bI0MPLWyej8AAIA/cI0MPLWyej8AAIC//3//f/7//7//f/9//v//v/9//3/+//+//3//f/7//7//f/9//v//vx9zHvP///+//z//v////78fcx7z////v/8//7////+/////f////7////9/////v////3////+/////f////7///wAA/v//P//////+//8///////7//z///////v//P//////+//8/H3Me8////7//f///////vx9zHvP///+//3///////78AAP9/////vwAA/3////+/AAD/f////78AAP9/////v/9/AAD///+//38AAP///7//fwAA////v/9/AAD///+//3//f/7//7//f/9//v//v/9//3/+//+///8AAP7//z/+/wAA/v//P//////+//8/KEcnx////78oRyfH////v4Jagdr///+/glqB2v///78=")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_7mdxl")
+
+[sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_sqmh4"]
+
+[node name="terrain_slope" type="MeshInstance3D"]
+mesh = SubResource("ArrayMesh_c0e14")
+skeleton = NodePath("")
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.00189209, 0)
+shape = SubResource("ConvexPolygonShape3D_sqmh4")

@@ -1,0 +1,53 @@
+[gd_scene load_steps=6 format=4 uid="uid://85m0cs4283x2"]
+
+[ext_resource type="Texture2D" uid="uid://8exxd0117yfx" path="res://assets/City_Assets/Space/spacebits_texture.png" id="1_7khv7"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_78buq"]
+resource_name = "spacebits_texture"
+albedo_texture = ExtResource("1_7khv7")
+roughness = 0.6
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_q50ro"]
+_surfaces = [{
+"aabb": AABB(-1, -1, -1, 2, 2, 2),
+"format": 34359742465,
+"index_count": 36,
+"index_data": PackedByteArray("AAABAAIAAwAAAAIAAwACAAEAAAAEAAEAAwAFAAAABQAEAAAAAwABAAYABQAHAAQAAwAHAAUABwABAAQAAwAGAAcABwAGAAEA"),
+"name": "spacebits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 8,
+"vertex_data": PackedByteArray("AACAPwAAgD8AAIC/AACAPwAAgL8AAIA/AACAPwAAgD8AAIA/AACAvwAAgD8AAIA/AACAPwAAgL8AAIC/AACAvwAAgD8AAIC/AACAvwAAgL8AAIA/AACAvwAAgL8AAIC/")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_auccq"]
+resource_name = "terrain_tall_Cube_15115"
+_surfaces = [{
+"aabb": AABB(-1, -1, -1, 2, 2, 2),
+"attribute_data": PackedByteArray("YyJ2P0hL5T1jInY/JHVCPmMidj9IS+U9YyJ2PyR1Qj6UkGY/SEvlPWMidj8kdUI+lJBmPyR1Qj5jInY/SEvlPZSQZj8kdVI+YyJ2PyR1Uj5jInY/JHVSPpSQZj8kdVI+lJBmP0hL5T2UkGY/JHVCPpSQZj9IS+U9lJBmPyR1Qj6UkGY/QDElPWMidj9AMSU9YyJ2P0AxJT2UkGY/QDElPZSQZj9IS+U9YyJ2PyR1Qj5jInY/SEvlPZSQZj8kdUI+"),
+"format": 34359742487,
+"index_count": 36,
+"index_data": PackedByteArray("AAABAAIAAAADAAEABAAFAAYABAAHAAUACAAJAAoACAALAAkADAANAA4ADAAPAA0AEAARABIAEAATABEAFAAVABYAFAAXABUA"),
+"material": SubResource("StandardMaterial3D_78buq"),
+"name": "spacebits_texture",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 24,
+"vertex_data": PackedByteArray("AACAPwAAgD8AAIC/AACAPwAAgL8AAIA/AACAPwAAgD8AAIA/AACAPwAAgL8AAIC/AACAvwAAgD8AAIA/AACAPwAAgL8AAIA/AACAvwAAgL8AAIA/AACAPwAAgD8AAIA/AACAvwAAgL8AAIC/AACAPwAAgL8AAIA/AACAPwAAgL8AAIC/AACAvwAAgL8AAIA/AACAvwAAgD8AAIA/AACAvwAAgL8AAIC/AACAvwAAgD8AAIC/AACAvwAAgL8AAIA/AACAvwAAgD8AAIA/AACAPwAAgD8AAIC/AACAPwAAgD8AAIA/AACAvwAAgD8AAIC/AACAvwAAgD8AAIC/AACAPwAAgL8AAIC/AACAPwAAgD8AAIC/AACAvwAAgL8AAIC/////f////7////9/////v////3////+/////f////7//f/9/////v/9//3////+//3//f////7//f/9/////v/9/AAD///+//38AAP///7//fwAA////v/9/AAD///+/AAD/f////78AAP9/////vwAA/3////+/AAD/f////7//f///////v/9///////+//3///////7//f///////v/////////8//////////z//////////P/////////8/")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_q50ro")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_7khv7"]
+size = Vector3(2, 1.99622, 2)
+
+[node name="terrain_tall" type="MeshInstance3D"]
+mesh = SubResource("ArrayMesh_auccq")
+skeleton = NodePath("")
+
+[node name="Area3D" type="Area3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.00189209, 0)
+shape = SubResource("BoxShape3D_7khv7")
