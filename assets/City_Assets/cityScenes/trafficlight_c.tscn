@@ -48,6 +48,7 @@ size = Vector3(0.081543, 0.934875, 0.272217)
 size = Vector3(0.719482, 0.221863, 0.106689)
 
 [node name="trafficlight_C" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_r63ik")
 skeleton = NodePath("")
 

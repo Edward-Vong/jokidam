@@ -44,6 +44,7 @@ height = 0.225
 radius = 0.7
 
 [node name="roofmodule_base" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_ujdlv")
 skeleton = NodePath("")
 

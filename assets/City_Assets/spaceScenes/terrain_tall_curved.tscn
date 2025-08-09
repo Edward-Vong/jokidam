@@ -43,6 +43,7 @@ shadow_mesh = SubResource("ArrayMesh_7yn1n")
 size = Vector3(2, 1.99622, 2)
 
 [node name="terrain_tall_curved" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_21c1f")
 skeleton = NodePath("")
 

@@ -78,6 +78,7 @@ height = 0.466553
 radius = 0.982422
 
 [node name="space_farm_large_sprinkler" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_wo3hh")
 skeleton = NodePath("")
 

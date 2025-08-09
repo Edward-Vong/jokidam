@@ -46,6 +46,7 @@ height = 0.0515442
 radius = 0.0786133
 
 [node name="trash_A" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_s7qk2")
 skeleton = NodePath("")
 

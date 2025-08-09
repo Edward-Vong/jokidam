@@ -53,6 +53,7 @@ height = 0.4375
 radius = 0.0771484
 
 [node name="tree_B" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_satmm")
 skeleton = NodePath("")
 

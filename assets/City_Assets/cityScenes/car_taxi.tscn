@@ -181,6 +181,7 @@ shadow_mesh = SubResource("ArrayMesh_a3gsj")
 size = Vector3(0.41748, 0.434448, 0.939636)
 
 [node name="car_taxi" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_6g6uw")
 skeleton = NodePath("")
 

@@ -41,11 +41,10 @@ _surfaces = [{
 blend_shape_mode = 0
 shadow_mesh = SubResource("ArrayMesh_v2dhv")
 
-[sub_resource type="CylinderShape3D" id="CylinderShape3D_psjuj"]
-height = 0.96814
-radius = 0.952637
+[sub_resource type="ConcavePolygonShape3D" id="ConcavePolygonShape3D_psjuj"]
 
 [node name="dome" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_n68hi")
 skeleton = NodePath("")
 
@@ -53,4 +52,4 @@ skeleton = NodePath("")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.48761, 0)
-shape = SubResource("CylinderShape3D_psjuj")
+shape = SubResource("ConcavePolygonShape3D_psjuj")

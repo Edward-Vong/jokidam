@@ -48,6 +48,7 @@ size = Vector3(2.00723, 0.0941772, 2.00021)
 size = Vector3(0.651154, 0.296448, 0.65094)
 
 [node name="park_wall_innerCorner" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_gsniw")
 skeleton = NodePath("")
 

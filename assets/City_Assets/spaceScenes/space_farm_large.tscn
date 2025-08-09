@@ -46,6 +46,7 @@ height = 0.308105
 radius = 0.963867
 
 [node name="space_farm_large" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_fdtty")
 skeleton = NodePath("")
 

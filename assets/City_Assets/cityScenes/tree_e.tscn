@@ -49,6 +49,7 @@ radius = 0.0888672
 size = Vector3(0.887695, 0.634888, 0.922485)
 
 [node name="tree_E" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_vpioh")
 skeleton = NodePath("")
 

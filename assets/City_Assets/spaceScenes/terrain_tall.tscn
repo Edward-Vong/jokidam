@@ -43,6 +43,7 @@ shadow_mesh = SubResource("ArrayMesh_q50ro")
 size = Vector3(2, 1.99622, 2)
 
 [node name="terrain_tall" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_auccq")
 skeleton = NodePath("")
 

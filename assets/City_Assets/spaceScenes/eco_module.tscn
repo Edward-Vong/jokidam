@@ -76,6 +76,7 @@ shadow_mesh = SubResource("ArrayMesh_p18kc")
 radius = 1.1
 
 [node name="eco_module" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_r3l0b")
 skeleton = NodePath("")
 

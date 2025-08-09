@@ -50,6 +50,7 @@ size = Vector3(1.00171, 0.368225, 0.961627)
 size = Vector3(1, 0.800513, 0.506323)
 
 [node name="roofmodule_cargo_C" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_56svc")
 skeleton = NodePath("")
 

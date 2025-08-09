@@ -44,6 +44,7 @@ height = 1.0
 radius = 1.0
 
 [node name="water_storage" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_e67ne")
 skeleton = NodePath("")
 

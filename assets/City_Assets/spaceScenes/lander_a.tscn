@@ -46,6 +46,7 @@ height = 1.125
 radius = 0.8
 
 [node name="lander_A" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_gy6jg")
 skeleton = NodePath("")
 

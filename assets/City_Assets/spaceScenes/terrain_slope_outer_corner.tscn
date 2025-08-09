@@ -44,6 +44,7 @@ shadow_mesh = SubResource("ArrayMesh_ffpio")
 [sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_hmspp"]
 
 [node name="terrain_slope_outer_corner" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_1x8u7")
 skeleton = NodePath("")
 

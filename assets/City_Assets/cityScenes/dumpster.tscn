@@ -43,6 +43,7 @@ shadow_mesh = SubResource("ArrayMesh_2cxqq")
 size = Vector3(0.569397, 0.314941, 0.349121)
 
 [node name="dumpster" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_b852o")
 skeleton = NodePath("")
 

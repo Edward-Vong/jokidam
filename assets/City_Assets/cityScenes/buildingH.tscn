@@ -43,6 +43,7 @@ shadow_mesh = SubResource("ArrayMesh_wxim6")
 size = Vector3(1.99641, 2.94305, 1.29478)
 
 [node name="building_H_withoutBase" type="MeshInstance3D"]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_ibb0m")
 skeleton = NodePath("")
 

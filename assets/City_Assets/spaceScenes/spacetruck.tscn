@@ -184,6 +184,7 @@ size = Vector3(0.48291, 0.342041, 0.877502)
 size = Vector3(0.476837, 0.22821, 0.409302)
 
 [node name="spacetruck" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_f7pgq")
 skeleton = NodePath("")
 

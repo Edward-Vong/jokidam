@@ -1,0 +1,205 @@
+[gd_scene load_steps=68 format=3 uid="uid://c7l6302k2yeae"]
+
+[ext_resource type="PackedScene" uid="uid://depivsrctcqew" path="res://assets/City_Assets/spaceScenes/basemodule_a.tscn" id="1_mmu05"]
+[ext_resource type="PackedScene" uid="uid://b363504j854lo" path="res://assets/City_Assets/spaceScenes/basemodule_b.tscn" id="2_ci3w1"]
+[ext_resource type="PackedScene" uid="uid://dw45jcrwsy8ot" path="res://assets/City_Assets/spaceScenes/basemodule_c.tscn" id="3_3cnpn"]
+[ext_resource type="PackedScene" uid="uid://wmn86pjeg8k8" path="res://assets/City_Assets/spaceScenes/basemodule_d.tscn" id="4_6gaji"]
+[ext_resource type="PackedScene" uid="uid://ctv5ij3d884o0" path="res://assets/City_Assets/spaceScenes/basemodule_e.tscn" id="5_yrwot"]
+[ext_resource type="PackedScene" uid="uid://jeh11rg0psk7" path="res://assets/City_Assets/spaceScenes/basemodule_garage.tscn" id="6_kwikf"]
+[ext_resource type="PackedScene" uid="uid://db8u7lwe5ddjs" path="res://assets/City_Assets/spaceScenes/cargodepot_a.tscn" id="7_xt8x1"]
+[ext_resource type="PackedScene" uid="uid://b65s4d88xk0mw" path="res://assets/City_Assets/spaceScenes/cargodepot_b.tscn" id="8_0ppb5"]
+[ext_resource type="PackedScene" uid="uid://cogp87b665yk4" path="res://assets/City_Assets/spaceScenes/cargodepot_c.tscn" id="9_31pep"]
+[ext_resource type="PackedScene" uid="uid://drjn1t3yu37q0" path="res://assets/City_Assets/spaceScenes/cargo_a.tscn" id="10_sxnrr"]
+[ext_resource type="PackedScene" uid="uid://bcof6vkb0b5ht" path="res://assets/City_Assets/spaceScenes/cargo_a_packed.tscn" id="11_p2u80"]
+[ext_resource type="PackedScene" uid="uid://5sbkwlm3xad4" path="res://assets/City_Assets/spaceScenes/cargo_a_stacked.tscn" id="12_fneyg"]
+[ext_resource type="PackedScene" uid="uid://c7c34jhmff1q" path="res://assets/City_Assets/spaceScenes/cargo_b.tscn" id="13_ognik"]
+[ext_resource type="PackedScene" uid="uid://s54n4bglkbl4" path="res://assets/City_Assets/spaceScenes/cargo_b_packed.tscn" id="14_i8pjm"]
+[ext_resource type="PackedScene" uid="uid://dvpb1nlroybp6" path="res://assets/City_Assets/spaceScenes/cargo_b_stacked.tscn" id="15_6ibi8"]
+[ext_resource type="PackedScene" uid="uid://dua8d48c12srm" path="res://assets/City_Assets/spaceScenes/containers_a.tscn" id="16_yaqgh"]
+[ext_resource type="PackedScene" uid="uid://bcj5c37a87v4t" path="res://assets/City_Assets/spaceScenes/containers_b.tscn" id="17_4fci3"]
+[ext_resource type="PackedScene" uid="uid://8mthwruc2cu1" path="res://assets/City_Assets/spaceScenes/containers_c.tscn" id="18_r1ovt"]
+[ext_resource type="PackedScene" uid="uid://dncli5j7wbctl" path="res://assets/City_Assets/spaceScenes/containers_d.tscn" id="19_jpba8"]
+[ext_resource type="PackedScene" uid="uid://dadqfwc0xe215" path="res://assets/City_Assets/spaceScenes/dome.tscn" id="20_eso3m"]
+[ext_resource type="PackedScene" uid="uid://3ts6snpc7m73" path="res://assets/City_Assets/spaceScenes/drill_structure.tscn" id="21_0xcwd"]
+[ext_resource type="PackedScene" uid="uid://lx63gwmrcqh0" path="res://assets/City_Assets/spaceScenes/dropship.tscn" id="22_558mr"]
+[ext_resource type="PackedScene" uid="uid://k75obbervigh" path="res://assets/City_Assets/spaceScenes/dropship_packed.tscn" id="23_88mlq"]
+[ext_resource type="PackedScene" uid="uid://blq7enlxgytks" path="res://assets/City_Assets/spaceScenes/eco_module.tscn" id="24_qt11s"]
+[ext_resource type="PackedScene" uid="uid://sic4ejqc7sxt" path="res://assets/City_Assets/spaceScenes/lander_a.tscn" id="25_krb78"]
+[ext_resource type="PackedScene" uid="uid://xhab0lj67to6" path="res://assets/City_Assets/spaceScenes/lander_b.tscn" id="26_2ga5w"]
+[ext_resource type="PackedScene" uid="uid://5pc4y46030b3" path="res://assets/City_Assets/spaceScenes/lander_base.tscn" id="27_8l6jp"]
+[ext_resource type="PackedScene" uid="uid://bhrdv07ojosxm" path="res://assets/City_Assets/spaceScenes/landingpad_large.tscn" id="28_c7iix"]
+[ext_resource type="PackedScene" uid="uid://vll2q5fgot65" path="res://assets/City_Assets/spaceScenes/landingpad_small.tscn" id="29_o6skv"]
+[ext_resource type="PackedScene" uid="uid://bukuii25pr1pi" path="res://assets/City_Assets/spaceScenes/lights.tscn" id="30_un7nd"]
+[ext_resource type="PackedScene" uid="uid://japgomwbklrq" path="res://assets/City_Assets/spaceScenes/mobile_base_cargo.tscn" id="31_wdbp8"]
+[ext_resource type="PackedScene" uid="uid://stcr4uxnlrd1" path="res://assets/City_Assets/spaceScenes/mobile_base_carriage.tscn" id="32_yucbx"]
+[ext_resource type="PackedScene" uid="uid://dfih0uqv1ur3b" path="res://assets/City_Assets/spaceScenes/mobile_base_command.tscn" id="33_djo8o"]
+[ext_resource type="PackedScene" uid="uid://c5bfj41nje33v" path="res://assets/City_Assets/spaceScenes/mobile_base_frame.tscn" id="34_2r8yw"]
+[ext_resource type="PackedScene" uid="uid://dx5veq4qg22va" path="res://assets/City_Assets/spaceScenes/rocks_a.tscn" id="35_vh6e7"]
+[ext_resource type="PackedScene" uid="uid://gqoo8ll45whu" path="res://assets/City_Assets/spaceScenes/rocks_b.tscn" id="36_2gfhj"]
+[ext_resource type="PackedScene" uid="uid://bq2pemn64pp7e" path="res://assets/City_Assets/spaceScenes/rock_a.tscn" id="37_jtu5a"]
+[ext_resource type="PackedScene" uid="uid://b3gxxwxe3ntcx" path="res://assets/City_Assets/spaceScenes/rock_b.tscn" id="38_10glq"]
+[ext_resource type="PackedScene" uid="uid://bjlvbyc6qfwad" path="res://assets/City_Assets/spaceScenes/roofmodule_base.tscn" id="39_de47s"]
+[ext_resource type="PackedScene" uid="uid://c6qxpdvt2mu4g" path="res://assets/City_Assets/spaceScenes/roofmodule_cargo_b.tscn" id="40_sihsk"]
+[ext_resource type="PackedScene" uid="uid://bx5bg1kxr7jjx" path="res://assets/City_Assets/spaceScenes/roofmodule_cargo_c.tscn" id="41_gjuhb"]
+[ext_resource type="PackedScene" uid="uid://3xbmpyh2720" path="res://assets/City_Assets/spaceScenes/roofmodule_solarpanels.tscn" id="42_j37db"]
+[ext_resource type="PackedScene" uid="uid://dmgl2ypbk6nrb" path="res://assets/City_Assets/spaceScenes/solarpanel.tscn" id="43_n78iv"]
+[ext_resource type="PackedScene" uid="uid://c28s0ah0x1oua" path="res://assets/City_Assets/spaceScenes/spacetruck.tscn" id="44_v1t3p"]
+[ext_resource type="PackedScene" uid="uid://nksiio8fhx6d" path="res://assets/City_Assets/spaceScenes/spacetruck_trailer.tscn" id="45_ku1i1"]
+[ext_resource type="PackedScene" uid="uid://dldgthxlvhld1" path="res://assets/City_Assets/spaceScenes/space_farm_large.tscn" id="46_6m3hy"]
+[ext_resource type="PackedScene" uid="uid://bbbaons4afmgq" path="res://assets/City_Assets/spaceScenes/space_farm_large_sprinkler.tscn" id="47_27u6w"]
+[ext_resource type="PackedScene" uid="uid://cod4hud5icf4l" path="res://assets/City_Assets/spaceScenes/space_farm_small.tscn" id="48_q4r70"]
+[ext_resource type="PackedScene" uid="uid://b3npoylk1xxvk" path="res://assets/City_Assets/spaceScenes/structure_low.tscn" id="49_h8d1s"]
+[ext_resource type="PackedScene" uid="uid://clp2kfpyke4o1" path="res://assets/City_Assets/spaceScenes/structure_tall.tscn" id="50_tur0v"]
+[ext_resource type="PackedScene" uid="uid://j5a0e0544pjl" path="res://assets/City_Assets/spaceScenes/terrain_low.tscn" id="51_ibor6"]
+[ext_resource type="PackedScene" uid="uid://d1vgj8pvhkhp4" path="res://assets/City_Assets/spaceScenes/terrain_low_curved.tscn" id="52_17g7u"]
+[ext_resource type="PackedScene" uid="uid://bl1jtyqnofhb7" path="res://assets/City_Assets/spaceScenes/terrain_mining.tscn" id="53_03ssu"]
+[ext_resource type="PackedScene" uid="uid://cpviw0ifml3sw" path="res://assets/City_Assets/spaceScenes/terrain_slope.tscn" id="54_y3wiu"]
+[ext_resource type="PackedScene" uid="uid://cmqopxf6edtq3" path="res://assets/City_Assets/spaceScenes/terrain_slope_inner_corner.tscn" id="55_pnrqa"]
+[ext_resource type="PackedScene" uid="uid://d3s1lxrcf81al" path="res://assets/City_Assets/spaceScenes/terrain_slope_outer_corner.tscn" id="56_1eiiu"]
+[ext_resource type="PackedScene" uid="uid://85m0cs4283x2" path="res://assets/City_Assets/spaceScenes/terrain_tall.tscn" id="57_do1b7"]
+[ext_resource type="PackedScene" uid="uid://b61voqm75c22l" path="res://assets/City_Assets/spaceScenes/terrain_tall_curved.tscn" id="58_6psn2"]
+[ext_resource type="PackedScene" uid="uid://cwrfbu0c8mta6" path="res://assets/City_Assets/spaceScenes/tunnel_diagonal_long_a.tscn" id="59_qxol8"]
+[ext_resource type="PackedScene" uid="uid://c1dnmaqlhjttb" path="res://assets/City_Assets/spaceScenes/tunnel_diagonal_long_b.tscn" id="60_py3dd"]
+[ext_resource type="PackedScene" uid="uid://ce0xx8th0ny53" path="res://assets/City_Assets/spaceScenes/tunnel_diagonal_short_a.tscn" id="61_1e550"]
+[ext_resource type="PackedScene" uid="uid://cpkf3ch74rise" path="res://assets/City_Assets/spaceScenes/tunnel_diagonal_short_b.tscn" id="62_k86i0"]
+[ext_resource type="PackedScene" uid="uid://2irfr3uohthw" path="res://assets/City_Assets/spaceScenes/tunnel_straight_a.tscn" id="63_7qm48"]
+[ext_resource type="PackedScene" uid="uid://bwxy32yvv5b5d" path="res://assets/City_Assets/spaceScenes/tunnel_straight_b.tscn" id="64_o1hfq"]
+[ext_resource type="PackedScene" uid="uid://cvnafufq8iwcr" path="res://assets/City_Assets/spaceScenes/water_storage.tscn" id="65_q116y"]
+[ext_resource type="PackedScene" uid="uid://by6y4xlcoqm60" path="res://assets/City_Assets/spaceScenes/windturbine_low.tscn" id="66_w3t2p"]
+[ext_resource type="PackedScene" uid="uid://cy8di0cp5iay1" path="res://assets/City_Assets/spaceScenes/windturbine_tall.tscn" id="67_ufxyj"]
+
+[node name="MeshInstance3D" type="MeshInstance3D"]
+
+[node name="basemodule_A" parent="." instance=ExtResource("1_mmu05")]
+
+[node name="basemodule_B" parent="." instance=ExtResource("2_ci3w1")]
+
+[node name="basemodule_C" parent="." instance=ExtResource("3_3cnpn")]
+
+[node name="basemodule_D" parent="." instance=ExtResource("4_6gaji")]
+
+[node name="basemodule_E" parent="." instance=ExtResource("5_yrwot")]
+
+[node name="basemodule_garage" parent="." instance=ExtResource("6_kwikf")]
+
+[node name="cargodepot_A" parent="." instance=ExtResource("7_xt8x1")]
+
+[node name="cargodepot_B" parent="." instance=ExtResource("8_0ppb5")]
+
+[node name="cargodepot_C" parent="." instance=ExtResource("9_31pep")]
+
+[node name="cargo_A" parent="." instance=ExtResource("10_sxnrr")]
+
+[node name="cargo_A_packed" parent="." instance=ExtResource("11_p2u80")]
+
+[node name="cargo_A_stacked" parent="." instance=ExtResource("12_fneyg")]
+
+[node name="cargo_B" parent="." instance=ExtResource("13_ognik")]
+
+[node name="cargo_B_packed" parent="." instance=ExtResource("14_i8pjm")]
+
+[node name="cargo_B_stacked" parent="." instance=ExtResource("15_6ibi8")]
+
+[node name="containers_A" parent="." instance=ExtResource("16_yaqgh")]
+
+[node name="containers_B" parent="." instance=ExtResource("17_4fci3")]
+
+[node name="containers_C" parent="." instance=ExtResource("18_r1ovt")]
+
+[node name="containers_D" parent="." instance=ExtResource("19_jpba8")]
+
+[node name="dome" parent="." instance=ExtResource("20_eso3m")]
+
+[node name="drill_structure" parent="." instance=ExtResource("21_0xcwd")]
+
+[node name="dropship" parent="." instance=ExtResource("22_558mr")]
+
+[node name="dropship_packed" parent="." instance=ExtResource("23_88mlq")]
+
+[node name="eco_module" parent="." instance=ExtResource("24_qt11s")]
+
+[node name="lander_A" parent="." instance=ExtResource("25_krb78")]
+
+[node name="lander_B" parent="." instance=ExtResource("26_2ga5w")]
+
+[node name="lander_base" parent="." instance=ExtResource("27_8l6jp")]
+
+[node name="landingpad_large" parent="." instance=ExtResource("28_c7iix")]
+
+[node name="landingpad_small" parent="." instance=ExtResource("29_o6skv")]
+
+[node name="lights" parent="." instance=ExtResource("30_un7nd")]
+
+[node name="mobile_base_cargo" parent="." instance=ExtResource("31_wdbp8")]
+
+[node name="mobile_base_carriage" parent="." instance=ExtResource("32_yucbx")]
+
+[node name="mobile_base_command" parent="." instance=ExtResource("33_djo8o")]
+
+[node name="mobile_base_frame" parent="." instance=ExtResource("34_2r8yw")]
+
+[node name="rocks_A" parent="." instance=ExtResource("35_vh6e7")]
+
+[node name="rocks_B" parent="." instance=ExtResource("36_2gfhj")]
+
+[node name="rock_A" parent="." instance=ExtResource("37_jtu5a")]
+
+[node name="rock_B" parent="." instance=ExtResource("38_10glq")]
+
+[node name="roofmodule_base" parent="." instance=ExtResource("39_de47s")]
+
+[node name="roofmodule_cargo_B" parent="." instance=ExtResource("40_sihsk")]
+
+[node name="roofmodule_cargo_C" parent="." instance=ExtResource("41_gjuhb")]
+
+[node name="roofmodule_solarpanels" parent="." instance=ExtResource("42_j37db")]
+
+[node name="solarpanel" parent="." instance=ExtResource("43_n78iv")]
+
+[node name="spacetruck" parent="." instance=ExtResource("44_v1t3p")]
+
+[node name="spacetruck_trailer" parent="." instance=ExtResource("45_ku1i1")]
+
+[node name="space_farm_large" parent="." instance=ExtResource("46_6m3hy")]
+
+[node name="space_farm_large_sprinkler" parent="." instance=ExtResource("47_27u6w")]
+
+[node name="space_farm_small" parent="." instance=ExtResource("48_q4r70")]
+
+[node name="structure_low" parent="." instance=ExtResource("49_h8d1s")]
+
+[node name="structure_tall" parent="." instance=ExtResource("50_tur0v")]
+
+[node name="terrain_low" parent="." instance=ExtResource("51_ibor6")]
+
+[node name="terrain_low_curved" parent="." instance=ExtResource("52_17g7u")]
+
+[node name="terrain_mining" parent="." instance=ExtResource("53_03ssu")]
+
+[node name="terrain_slope" parent="." instance=ExtResource("54_y3wiu")]
+
+[node name="terrain_slope_inner_corner" parent="." instance=ExtResource("55_pnrqa")]
+
+[node name="terrain_slope_outer_corner" parent="." instance=ExtResource("56_1eiiu")]
+
+[node name="terrain_tall" parent="." instance=ExtResource("57_do1b7")]
+
+[node name="terrain_tall_curved" parent="." instance=ExtResource("58_6psn2")]
+
+[node name="tunnel_diagonal_long_A" parent="." instance=ExtResource("59_qxol8")]
+
+[node name="tunnel_diagonal_long_B" parent="." instance=ExtResource("60_py3dd")]
+
+[node name="tunnel_diagonal_short_A" parent="." instance=ExtResource("61_1e550")]
+
+[node name="tunnel_diagonal_short_B" parent="." instance=ExtResource("62_k86i0")]
+
+[node name="tunnel_straight_A" parent="." instance=ExtResource("63_7qm48")]
+
+[node name="tunnel_straight_B" parent="." instance=ExtResource("64_o1hfq")]
+
+[node name="water_storage" parent="." instance=ExtResource("65_q116y")]
+
+[node name="windturbine_low" parent="." instance=ExtResource("66_w3t2p")]
+
+[node name="windturbine_tall" parent="." instance=ExtResource("67_ufxyj")]

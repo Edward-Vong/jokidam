@@ -46,6 +46,7 @@ height = 0.5
 radius = 0.3
 
 [node name="rock_A" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_7ecif")
 skeleton = NodePath("")
 

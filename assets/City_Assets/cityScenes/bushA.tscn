@@ -46,6 +46,7 @@ radius = 0.0994995
 height = 0.403839
 
 [node name="bushA" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_4svyh")
 skeleton = NodePath("")
 

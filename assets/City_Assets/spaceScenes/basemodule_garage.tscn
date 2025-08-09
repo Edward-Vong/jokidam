@@ -76,6 +76,7 @@ height = 1.00171
 radius = 1.09033
 
 [node name="basemodule_garage" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_v5k8u")
 skeleton = NodePath("")
 

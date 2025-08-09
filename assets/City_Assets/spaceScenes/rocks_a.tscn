@@ -51,6 +51,7 @@ height = 0.1375
 radius = 0.2
 
 [node name="rocks_A" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_ftlgh")
 skeleton = NodePath("")
 

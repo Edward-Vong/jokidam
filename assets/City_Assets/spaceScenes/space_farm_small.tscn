@@ -53,6 +53,7 @@ radius = 0.0800781
 radius = 0.400042
 
 [node name="space_farm_small" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_p1sje")
 skeleton = NodePath("")
 

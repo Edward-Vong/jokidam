@@ -46,6 +46,7 @@ size = Vector3(1.98688, 0.0941772, 2.00021)
 size = Vector3(0.295685, 0.299683, 1.97571)
 
 [node name="park_wall_straight" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_i2gpu")
 skeleton = NodePath("")
 

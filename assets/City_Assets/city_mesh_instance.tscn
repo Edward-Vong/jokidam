@@ -1,0 +1,212 @@
+[gd_scene load_steps=53 format=3 uid="uid://w10hid17dcbu"]
+
+[ext_resource type="PackedScene" uid="uid://cqp5b8ar71ow7" path="res://assets/City_Assets/cityScenes/base.tscn" id="1_ew44h"]
+[ext_resource type="PackedScene" uid="uid://bxj4633g2pqdf" path="res://assets/City_Assets/cityScenes/bench.tscn" id="2_37sy1"]
+[ext_resource type="PackedScene" uid="uid://cq80ixk2lakms" path="res://assets/City_Assets/cityScenes/boxA.tscn" id="3_n8q8a"]
+[ext_resource type="PackedScene" uid="uid://tq250g6cw2k1" path="res://assets/City_Assets/cityScenes/boxB.tscn" id="4_qroxl"]
+[ext_resource type="PackedScene" uid="uid://fjgbob0p8h5n" path="res://assets/City_Assets/cityScenes/buildingA.tscn" id="5_jeq40"]
+[ext_resource type="PackedScene" uid="uid://chi71l2wv532b" path="res://assets/City_Assets/cityScenes/buildingB.tscn" id="6_gpb3s"]
+[ext_resource type="PackedScene" uid="uid://wolt7v87wvcc" path="res://assets/City_Assets/cityScenes/buildingC.tscn" id="7_oj3r1"]
+[ext_resource type="PackedScene" uid="uid://bmp7ghtedy8mq" path="res://assets/City_Assets/cityScenes/buildingD.tscn" id="8_yx4ki"]
+[ext_resource type="PackedScene" uid="uid://nksaotorburr" path="res://assets/City_Assets/cityScenes/buildingE.tscn" id="9_qv3ew"]
+[ext_resource type="PackedScene" uid="uid://dswm5ysd4jiod" path="res://assets/City_Assets/cityScenes/buildingF.tscn" id="10_6kuq6"]
+[ext_resource type="PackedScene" uid="uid://bnnsdac6glhmy" path="res://assets/City_Assets/cityScenes/buildingG.tscn" id="11_w2npi"]
+[ext_resource type="PackedScene" uid="uid://b2381t5s6c5rc" path="res://assets/City_Assets/cityScenes/buildingH.tscn" id="12_m0n6q"]
+[ext_resource type="PackedScene" uid="uid://hrn34j1n1nty" path="res://assets/City_Assets/cityScenes/bushA.tscn" id="13_cuut7"]
+[ext_resource type="PackedScene" uid="uid://c8gc1pm863k47" path="res://assets/City_Assets/cityScenes/bushB.tscn" id="14_ecgt2"]
+[ext_resource type="PackedScene" uid="uid://lc10v75smc5" path="res://assets/City_Assets/cityScenes/bushC.tscn" id="15_t4cw3"]
+[ext_resource type="PackedScene" uid="uid://b8t1117rasx84" path="res://assets/City_Assets/cityScenes/bushD.tscn" id="16_1ukh1"]
+[ext_resource type="PackedScene" uid="uid://m23a5rickxh1" path="res://assets/City_Assets/cityScenes/car_hatchback.tscn" id="17_jrvqg"]
+[ext_resource type="PackedScene" uid="uid://dv2oiw3bvbk3c" path="res://assets/City_Assets/cityScenes/car_police.tscn" id="18_7f826"]
+[ext_resource type="PackedScene" uid="uid://dp6jnd855i3on" path="res://assets/City_Assets/cityScenes/car_sedan.tscn" id="19_mc8h4"]
+[ext_resource type="PackedScene" uid="uid://cnwrpqbwgob5" path="res://assets/City_Assets/cityScenes/car_stationwagon.tscn" id="20_m7k8b"]
+[ext_resource type="PackedScene" uid="uid://dwb8547hy1dnl" path="res://assets/City_Assets/cityScenes/car_taxi.tscn" id="21_vwplo"]
+[ext_resource type="PackedScene" uid="uid://dcno45elsmjs5" path="res://assets/City_Assets/cityScenes/dumpster.tscn" id="22_647gr"]
+[ext_resource type="PackedScene" uid="uid://ba6vfi6rc6xh8" path="res://assets/City_Assets/cityScenes/firehydrant.tscn" id="23_kuuug"]
+[ext_resource type="PackedScene" uid="uid://c7lait2u83gld" path="res://assets/City_Assets/cityScenes/park_base.tscn" id="24_grsdh"]
+[ext_resource type="PackedScene" uid="uid://56a06r4j6k4d" path="res://assets/City_Assets/cityScenes/park_base_decorated_bushes.tscn" id="25_423eg"]
+[ext_resource type="PackedScene" uid="uid://b8xcbxeugk163" path="res://assets/City_Assets/cityScenes/park_road_corner.tscn" id="26_s4mg2"]
+[ext_resource type="PackedScene" uid="uid://bnc5qjn7yp05b" path="res://assets/City_Assets/cityScenes/park_road_junction.tscn" id="27_l25bp"]
+[ext_resource type="PackedScene" uid="uid://clv6psgi1tuia" path="res://assets/City_Assets/cityScenes/park_road_straight.tscn" id="28_cik6p"]
+[ext_resource type="PackedScene" uid="uid://c7uhy5pkjdabw" path="res://assets/City_Assets/cityScenes/park_road_tsplit.tscn" id="29_l2mwj"]
+[ext_resource type="PackedScene" uid="uid://b2akhu04kxwae" path="res://assets/City_Assets/cityScenes/park_wall_entry.tscn" id="30_xv8rr"]
+[ext_resource type="PackedScene" uid="uid://counm5eeye8a8" path="res://assets/City_Assets/cityScenes/park_wall_inner_corner.tscn" id="31_hlsuq"]
+[ext_resource type="PackedScene" uid="uid://immsl4kouin0" path="res://assets/City_Assets/cityScenes/park_wall_straight.tscn" id="32_saour"]
+[ext_resource type="PackedScene" uid="uid://crdyfgq26effg" path="res://assets/City_Assets/cityScenes/streetlight.tscn" id="33_f4ejf"]
+[ext_resource type="PackedScene" uid="uid://cd3q53ojl3h1y" path="res://assets/City_Assets/cityScenes/streetlight_old_double.tscn" id="34_touva"]
+[ext_resource type="PackedScene" uid="uid://cvg75a2ah7yc5" path="res://assets/City_Assets/cityScenes/streetlight_old_single.tscn" id="35_fu053"]
+[ext_resource type="PackedScene" uid="uid://d1dwhttqmkx4l" path="res://assets/City_Assets/cityScenes/trafficlight_a.tscn" id="36_mlgje"]
+[ext_resource type="PackedScene" uid="uid://b5u5yya142a3m" path="res://assets/City_Assets/cityScenes/trafficlight_b.tscn" id="37_2wcr5"]
+[ext_resource type="PackedScene" uid="uid://clw14ce225egk" path="res://assets/City_Assets/cityScenes/trafficlight_c.tscn" id="38_h84a1"]
+[ext_resource type="PackedScene" uid="uid://bt61ut7p8uf4o" path="res://assets/City_Assets/cityScenes/trash_a.tscn" id="39_5r4ko"]
+[ext_resource type="PackedScene" uid="uid://gnssqwvjrson" path="res://assets/City_Assets/cityScenes/trash_b.tscn" id="40_4kajb"]
+[ext_resource type="PackedScene" uid="uid://c24sj1y0njvom" path="res://assets/City_Assets/cityScenes/tree_a.tscn" id="41_20ldw"]
+[ext_resource type="PackedScene" uid="uid://cinyr8rrejry1" path="res://assets/City_Assets/cityScenes/tree_b.tscn" id="42_rbbyd"]
+[ext_resource type="PackedScene" uid="uid://bwwtucriqi4as" path="res://assets/City_Assets/cityScenes/tree_c.tscn" id="43_nvjk6"]
+[ext_resource type="PackedScene" uid="uid://bp7mct3wti3l0" path="res://assets/City_Assets/cityScenes/tree_d.tscn" id="44_pw24n"]
+[ext_resource type="PackedScene" uid="uid://bnpssdkv0rif4" path="res://assets/City_Assets/cityScenes/tree_e.tscn" id="45_s7g8q"]
+[ext_resource type="PackedScene" uid="uid://dtdtahbenpygs" path="res://assets/City_Assets/cityScenes/watertower.tscn" id="46_phf6i"]
+[ext_resource type="PackedScene" uid="uid://sa4kpp154pbk" path="res://assets/City_Assets/cityScenes/road_corner.tscn" id="47_oj3r1"]
+[ext_resource type="PackedScene" uid="uid://bh7thq2s8shs0" path="res://assets/City_Assets/cityScenes/road_corner_curved.tscn" id="48_yx4ki"]
+[ext_resource type="PackedScene" uid="uid://d0tl0saqwf383" path="res://assets/City_Assets/cityScenes/road_junction.tscn" id="49_qv3ew"]
+[ext_resource type="PackedScene" uid="uid://1g45v84syldn" path="res://assets/City_Assets/cityScenes/road_straight.tscn" id="50_6kuq6"]
+[ext_resource type="PackedScene" uid="uid://bmolo5ra0d8yv" path="res://assets/City_Assets/cityScenes/road_straight_crossing.tscn" id="51_w2npi"]
+[ext_resource type="PackedScene" uid="uid://dcimjtv8qibo8" path="res://assets/City_Assets/cityScenes/road_tsplit.tscn" id="52_m0n6q"]
+
+[node name="Node3D" type="MeshInstance3D"]
+
+[node name="base" parent="." instance=ExtResource("1_ew44h")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="bench" parent="." instance=ExtResource("2_37sy1")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="box_A" parent="." instance=ExtResource("3_n8q8a")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="box_B" parent="." instance=ExtResource("4_qroxl")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_A_withoutBase" parent="." instance=ExtResource("5_jeq40")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_B_withoutBase" parent="." instance=ExtResource("6_gpb3s")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_C_withoutBase" parent="." instance=ExtResource("7_oj3r1")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_D_withoutBase" parent="." instance=ExtResource("8_yx4ki")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_E_withoutBase" parent="." instance=ExtResource("9_qv3ew")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_F_withoutBase" parent="." instance=ExtResource("10_6kuq6")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_G_withoutBase" parent="." instance=ExtResource("11_w2npi")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="building_H_withoutBase" parent="." instance=ExtResource("12_m0n6q")]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0, -1)
+
+[node name="bushA" parent="." instance=ExtResource("13_cuut7")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="bushB" parent="." instance=ExtResource("14_ecgt2")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="bushC" parent="." instance=ExtResource("15_t4cw3")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="bushD" parent="." instance=ExtResource("16_1ukh1")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="car_hatchback" parent="." instance=ExtResource("17_jrvqg")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="car_police" parent="." instance=ExtResource("18_7f826")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="car_sedan" parent="." instance=ExtResource("19_mc8h4")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="car_stationwagon" parent="." instance=ExtResource("20_m7k8b")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="car_taxi" parent="." instance=ExtResource("21_vwplo")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="dumpster" parent="." instance=ExtResource("22_647gr")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="firehydrant" parent="." instance=ExtResource("23_kuuug")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_base" parent="." instance=ExtResource("24_grsdh")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_base_decorated_bushes" parent="." instance=ExtResource("25_423eg")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_road_corner" parent="." instance=ExtResource("26_s4mg2")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_road_junction" parent="." instance=ExtResource("27_l25bp")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1)
+
+[node name="park_road_straight" parent="." instance=ExtResource("28_cik6p")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_road_tsplit" parent="." instance=ExtResource("29_l2mwj")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_wall_entry" parent="." instance=ExtResource("30_xv8rr")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_wall_innerCorner" parent="." instance=ExtResource("31_hlsuq")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="park_wall_straight" parent="." instance=ExtResource("32_saour")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="road_corner" parent="." instance=ExtResource("47_oj3r1")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="road_corner_curved" parent="." instance=ExtResource("48_yx4ki")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="road_junction" parent="." instance=ExtResource("49_qv3ew")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="road_straight" parent="." instance=ExtResource("50_6kuq6")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="road_straight_crossing" parent="." instance=ExtResource("51_w2npi")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="road_tsplit" parent="." instance=ExtResource("52_m0n6q")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="streetlight" parent="." instance=ExtResource("33_f4ejf")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="streetlight_old_double" parent="." instance=ExtResource("34_touva")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="streetlight_old_single" parent="." instance=ExtResource("35_fu053")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="trafficlight_A" parent="." instance=ExtResource("36_mlgje")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="trafficlight_B" parent="." instance=ExtResource("37_2wcr5")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="trafficlight_C" parent="." instance=ExtResource("38_h84a1")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="trash_A" parent="." instance=ExtResource("39_5r4ko")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="trash_B" parent="." instance=ExtResource("40_4kajb")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="tree_A" parent="." instance=ExtResource("41_20ldw")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="tree_B" parent="." instance=ExtResource("42_rbbyd")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="tree_C" parent="." instance=ExtResource("43_nvjk6")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="tree_D" parent="." instance=ExtResource("44_pw24n")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="tree_E" parent="." instance=ExtResource("45_s7g8q")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)
+
+[node name="watertower" parent="." instance=ExtResource("46_phf6i")]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, -1)

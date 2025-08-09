@@ -44,6 +44,7 @@ height = 3.725
 radius = 0.4
 
 [node name="tunnel_diagonal_long_A" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_qf1tr")
 skeleton = NodePath("")
 

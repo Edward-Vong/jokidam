@@ -43,6 +43,7 @@ shadow_mesh = SubResource("ArrayMesh_g622n")
 size = Vector3(1.99316, 0.0918579, 1.99658)
 
 [node name="road_straight" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_rit51")
 skeleton = NodePath("")
 

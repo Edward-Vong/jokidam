@@ -44,6 +44,7 @@ height = 1.0
 radius = 1.1
 
 [node name="basemodule_C" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_2i5yc")
 skeleton = NodePath("")
 

@@ -43,6 +43,7 @@ shadow_mesh = SubResource("ArrayMesh_b6njc")
 size = Vector3(1.8, 1.2, 2.1)
 
 [node name="mobile_base_cargo" type="MeshInstance3D"]
+transform = Transform3D(1.5, 0, 0, 0, 1.5, 0, 0, 0, 1.5, 0, 0, 0)
 mesh = SubResource("ArrayMesh_103t4")
 skeleton = NodePath("")
 
