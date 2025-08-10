@@ -1,4 +1,4 @@
-[gd_scene load_steps=16 format=3 uid="uid://5tdv08lhgh8"]
+[gd_scene load_steps=17 format=3 uid="uid://5tdv08lhgh8"]
 
 [ext_resource type="PackedScene" uid="uid://cqp5b8ar71ow7" path="res://assets/City_Assets/cityScenes/base.tscn" id="1_ctjr5"]
 [ext_resource type="PackedScene" uid="uid://c7lait2u83gld" path="res://assets/City_Assets/cityScenes/park_base.tscn" id="2_v8i72"]
@@ -15,6 +15,7 @@
 [ext_resource type="PackedScene" uid="uid://1g45v84syldn" path="res://assets/City_Assets/cityScenes/road_straight.tscn" id="13_cqsfo"]
 [ext_resource type="PackedScene" uid="uid://bmolo5ra0d8yv" path="res://assets/City_Assets/cityScenes/road_straight_crossing.tscn" id="14_c4k15"]
 [ext_resource type="PackedScene" uid="uid://dcimjtv8qibo8" path="res://assets/City_Assets/cityScenes/road_tsplit.tscn" id="15_kpk1r"]
+[ext_resource type="PackedScene" uid="uid://hyuwuk342v0x" path="res://assets/City_Assets/cityScenes/park_wall_outer_corner.tscn" id="16_v8i72"]
 
 [node name="library" type="Node3D"]
 
@@ -62,3 +63,6 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7, 0, 5)
 
 [node name="road_tsplit" parent="." instance=ExtResource("15_kpk1r")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9, 0, 5)
+
+[node name="park_wall_outerCorner" parent="." instance=ExtResource("16_v8i72")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.00791, 0, 6.99312)
